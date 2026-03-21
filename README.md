@@ -30,7 +30,7 @@ I am a dedicated student and coder, passionate about problem solving and creatin
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](www.linkedin.com/in/suvani-waghmare-4a0949379)
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/suvani-waghmare-4a0949379)
 [![LeetCode](https://leetcode.com/u/Suvani_12/)
 [![GitHub](https://github.com/suvaniwaghmare085-droid)
 
