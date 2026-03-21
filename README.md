@@ -1,11 +1,11 @@
 # Hi 👋, I'm Suvani Waghmare
 
 🎓 **B.Tech CSE Student | Specialization: Data Science & Machine Learning**  
-💻 **Aspiring Software Engineer & Freelance Story Writer**  
+💻 **Aspiring Data Scientist & Freelance Story Writer**  
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) <!-- Replace with your own hosted GIF if you want -->
+![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 ---
 
@@ -30,9 +30,9 @@ I am a dedicated student and coder, passionate about problem solving and creatin
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](www.linkedin.com/in/suvani-waghmare-4a0949379)
+[![LeetCode](https://leetcode.com/u/Suvani_12/)
+[![GitHub](https://github.com/suvaniwaghmare085-droid)
 
 ---
 
