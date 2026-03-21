@@ -1,6 +1,6 @@
 # Hi 👋, I'm Suvani Waghmare
 
-🎓 **B.Tech CSE Student | Specialization: Data Science & Machine Learning**  
+🎓 **B.Tech CSE Student | Specialization: Data Science & Machine Learning**
 💻 **Aspiring Data Scientist & Freelance Story Writer**  
 
 ---
