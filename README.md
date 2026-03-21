@@ -5,8 +5,8 @@
 
 ---
 
-![Coding GIF](![Coloured Profile Pic](https://github.com/user-attachments/assets/23ea5145-a369-4580-b1cc-255efb875fca)
-)
+(![Coloured Profile Pic](https://github.com/user-attachments/assets/23ea5145-a369-4580-b1cc-255efb875fca)
+
 
 ---
 
