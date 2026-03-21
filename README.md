@@ -5,7 +5,7 @@
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) <!-- Replace with your own hosted GIF if you want -->
+![Coding GIF](https://tenor.com/en-GB/view/work-from-home-back-to-gif-27353094)
 
 ---
 
