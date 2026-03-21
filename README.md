@@ -5,7 +5,8 @@
 
 ---
 
-![Coding GIF](https://tenor.com/en-GB/view/work-from-home-back-to-gif-27353094)
+![Coding GIF](![Coloured Profile Pic](https://github.com/user-attachments/assets/23ea5145-a369-4580-b1cc-255efb875fca)
+)
 
 ---
 
