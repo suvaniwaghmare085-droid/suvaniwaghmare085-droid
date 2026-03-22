@@ -6,8 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Suvani Waghmare</h1>
 
-<h3 align="center">💻 Aspiring Data Scientist | ✍️ Writer | 📊 Data Science Enthusiast | Python | DSA | Machine Learning Learner | Passionate About Tech + Creativity</h3>
-
+<h3 align="center">
 <p align="center">
   <img src="assets/![download (2)](https://github.com/user-attachments/assets/e7c384b7-597a-4ee5-a8cc-b37dcdea8c7e)
 " width="400"/>
