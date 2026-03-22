@@ -89,7 +89,6 @@ Hands-on practice, small builds, and algorithm implementations.
   <img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap" />
   <img src="https://hsrankcard.vercel.app/api/card?username=suvaniwaghmare01&theme=radical" />
 </div>
-
 ---
 ## 🐍 Contribution Snake
 
