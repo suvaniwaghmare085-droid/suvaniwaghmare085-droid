@@ -6,7 +6,12 @@
 
 <h1 align="center">Hi 👋, I'm Suvani Waghmare</h1>
 
-<h3 align="center">💻 Aspiring Data Scientist | ✍️ Writer | 📊 Data Science Enthusiast| Python | DSA | Machine Learning Learner | Passionate About Tech + Creativity</h3>
+<h3 align="center">💻 Aspiring Data Scientist | ✍️ Writer | 📊 Data Science Enthusiast | Python | DSA | Machine Learning Learner | Passionate About Tech + Creativity</h3>
+
+<p align="center">
+  <img src="![download (2)](https://github.com/user-attachments/assets/3596a7d6-380e-4321-b450-81498b2a8749)
+/profile.gif" width="400"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&width=600&lines=B.Tech+CSE+Student+💻;Data+Science+%26+AI+%26+ML+📊;Freelance+Writer+✍️;Python+•+Java+•+DSA" />
