@@ -48,7 +48,7 @@ This repository reflects my **journey, growth, and dedication** as I explore tec
 - 🎓 B.Tech CSE (Data Science & ML)
 - 💻 Passionate about solving real-world problems using tech
 - ✍️ Freelance Story Writer
-- 🚀 Aspiring Software Engineer
+- 🚀 Aspiring Data Scientist
 - ⚡ Fun fact: I can write **20+ stories in a day**
 
 ---
