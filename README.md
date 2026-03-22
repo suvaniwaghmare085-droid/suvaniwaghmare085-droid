@@ -1,7 +1,7 @@
 ## Hi Welcome to My Universe
 
 <div align="center">
-   <img src="assets/clover.gif" width="100%" />
+   <img src="𝓪𝓷𝓲𝓶𝓮.gif" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Suvani Waghmare</h1>
