@@ -97,6 +97,14 @@ Hands-on practice, small builds, and algorithm implementations.
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap" />
 </div>
+## 🏆 LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <br/><br/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Suvani_12&theme=dark" />
+  <br/><br/>
+  <img src="https://leetcode-streak-stats.herokuapp.com/?user=Suvani_12&theme=dark" />
+</div>
 
 ---
 
