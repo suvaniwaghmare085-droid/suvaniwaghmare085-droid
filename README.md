@@ -1,17 +1,9 @@
-## Hi there ʕ•ᴥ•ʔ
+## Hi there 
 
 <div align="center">
-  <img src="assets/![download (2)](https://github.com/user-attachments/assets/dbd68895-4f5e-4bc6-b6bb-c96f9e55926b)
-" width="100%" />
+   <img src="clover.gif" width="100%" />
 </div>
-
 <h1 align="center">Hi 👋, I'm Suvani Waghmare</h1>
-
-<h3 align="center">
-<p align="center">
-  <img src="assets/![download (2)](https://github.com/user-attachments/assets/e7c384b7-597a-4ee5-a8cc-b37dcdea8c7e)
-" width="400"/>
-</p>
 
 <p align="center">
   <p align="center">
