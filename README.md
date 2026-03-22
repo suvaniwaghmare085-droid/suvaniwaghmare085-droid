@@ -87,7 +87,7 @@ Hands-on practice, small builds, and algorithm implementations.
 ## 🏆 LeetCode & 💻 HackerRank Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap" />
-  <img src="https://hsrankcard.vercel.app/api/card?suvaniwaghmare01=suvaniwaghmare01&theme=radical" />
+  <img src="https://hsrankcard.vercel.app/api/card?username=suvaniwaghmare01&theme=radical" />
 </div>
 
 ---
