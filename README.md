@@ -111,7 +111,7 @@ Hands-on practice, small builds, and algorithm implementations.
 ---
 
 <div align="center">
-   <img src="Pixilart - Live on.gif" width="100%" />
+   <img src="Pixilart - Live on.gif" width="80%" />
 </div>
 
 
