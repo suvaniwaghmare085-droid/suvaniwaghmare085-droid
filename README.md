@@ -73,10 +73,13 @@ Hands-on practice, small builds, and algorithm implementations.
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
     <a href="https://www.hackerrank.com/profile/suvaniwaghmare01">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=green"/>
   </a>
    <a href="https://medium.com/suvaniwaghmare02">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+   <a href="https://www.hackerearth.com/suvaniwaghmare02">
+    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=Blue"/>
   </a>
 </p>
 
