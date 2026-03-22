@@ -14,7 +14,7 @@ jobs:
       - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
-          github_user_name: suvaniwaghmare085
+          github_user_name: suvaniwaghmare085-droid
           outputs: dist/github-snake.svg dist/github-snake-dark.svg
 
       - name: Push Snake Game to output branch
