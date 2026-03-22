@@ -91,6 +91,8 @@ Hands-on practice, small builds, and algorithm implementations.
 
 ## 🎯 Goals
 
+## 🎯 Goals
+
 ![Showcase Skills](https://img.shields.io/badge/🎯%20Showcase%20Skills-FF6F00?style=for-the-badge)
 ![Track Growth](https://img.shields.io/badge/📈%20Track%20Growth-6A0DAD?style=for-the-badge)
 ![Build Projects](https://img.shields.io/badge/🚀%20Build%20Real--World%20Projects-0077B5?style=for-the-badge)
@@ -103,6 +105,10 @@ Hands-on practice, small builds, and algorithm implementations.
 ![Content Specialist](https://img.shields.io/badge/📋%20Content%20Management%20Specialist-9C27B0?style=for-the-badge)
 ![Data Scientist](https://img.shields.io/badge/🔬%20Future%20Data%20Scientist-013243?style=for-the-badge)
 ![Tech Creativity](https://img.shields.io/badge/⚡%20Tech%20%2B%20Creativity-FF6F00?style=for-the-badge)
+![Internships](https://img.shields.io/badge/🏢%20Seeking%20Internships-2EC866?style=for-the-badge)
+![Mentorship](https://img.shields.io/badge/🤝%20Open%20To%20Mentorship-FF6F00?style=for-the-badge)
+![Collaborations](https://img.shields.io/badge/🤜%20Open%20To%20Collaborations-6A0DAD?style=for-the-badge)
+![Digital Content](https://img.shields.io/badge/📲%20Build%20Digital%20Content%20Career-E4405F?style=for-the-badge)
 
 ---
 
