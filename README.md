@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Suvani Waghmare</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&width=900&lines=+Aspiring+Data+Scientist;+Writer;+Data+Science+Enthusiast+Python;+DSA;+Machine+Learning+Learner;+Tech+%26+Creativity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&width=900&lines=+Aspiring+Data+Scientist;+Writer;+Data+Science+Enthusiast;+Python;+DSA;+Machine+Learning;+Learner;+Tech+%26+Creativity" />
 </p>
 
 ---
