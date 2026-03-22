@@ -99,6 +99,7 @@ Hands-on practice, small builds, and algorithm implementations.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suvaniwaghmare085-droid/suvaniwaghmare085-droid/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/suvaniwaghmare085-droid/suvaniwaghmare085-droid/output/github-snake.svg" />
 </picture>
+
 ---
 
 <p align="center">
