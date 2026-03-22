@@ -1,8 +1,7 @@
 ## Hi there ʕ•ᴥ•ʔ
 
 <div align="center">
-  <img src="![download (2)](https://github.com/user-attachments/assets/2fe55762-ef11-443c-9fc5-4756333efa03)
-/banner.gif" width="100%" />
+  <img src="assets/banner.gif" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Suvani Waghmare</h1>
@@ -10,8 +9,8 @@
 <h3 align="center">💻 Aspiring Data Scientist | ✍️ Writer | 📊 Data Science Enthusiast | Python | DSA | Machine Learning Learner | Passionate About Tech + Creativity</h3>
 
 <p align="center">
-  <img src="![download (2)](https://github.com/user-attachments/assets/3596a7d6-380e-4321-b450-81498b2a8749)
-/profile.gif" width="400"/>
+  <img src="assets/![download (2)](https://github.com/user-attachments/assets/e7c384b7-597a-4ee5-a8cc-b37dcdea8c7e)
+" width="400"/>
 </p>
 
 <p align="center">
