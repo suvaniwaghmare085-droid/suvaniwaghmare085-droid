@@ -87,7 +87,9 @@ Hands-on practice, small builds, and algorithm implementations.
 ## 🏆 LeetCode & 💻 HackerRank Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap" />
-  <img src="https://hsrankcard.vercel.app/api/card?username=suvaniwaghmare01&theme=radical" />
+  <a href="https://www.hackerrank.com/profile/suvaniwaghmare01">
+  <img src="https://img.shields.io/badge/Visit%20My%20HackerRank%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 </div>
 ---
 ## 🐍 Contribution Snake
