@@ -1,14 +1,15 @@
-## Hi there 
+## Hi there ʕ•ᴥ•ʔ
 
 <div align="center">
-   <img src="clover.gif" width="100%" />
+   <img src="assets/clover.gif" width="100%" />
 </div>
+
 <h1 align="center">Hi 👋, I'm Suvani Waghmare</h1>
 
 <p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&width=900&lines=+Aspiring+Data+Scientist;+Writer;+Data+Science+Enthusiast;+Python;+DSA;+Machine+Learning+Learner;+Tech+%26+Creativity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&width=900&lines=💻+Aspiring+Data+Scientist;✍️+Writer;📊+Data+Science+Enthusiast;🐍+Python;🧠+DSA;🤖+Machine+Learning+Learner;🚀+Tech+%26+Creativity" />
 </p>
+
 ---
 
 # 🌟 Personal Portfolio
@@ -34,10 +35,9 @@ This repository reflects my **journey, growth, and dedication** as I explore tec
 
 ### 🚀 Projects
 Practical implementations solving real-world problems using **AI, ML, and Data Science**.  
-Includes clean code, documentation, and approach explanation.
 
 ### 🧪 Experiments & Learning
-Hands-on practice, small builds, and algorithm implementations to strengthen core concepts.
+Hands-on practice, small builds, and algorithm implementations.
 
 ---
 
@@ -51,12 +51,12 @@ Hands-on practice, small builds, and algorithm implementations to strengthen cor
 
 ---
 
-## 🎯 Goals of This Portfolio
+## 🎯 Goals
 
-- Showcase my **technical and problem-solving skills**
-- Track my **learning journey and growth**
-- Build real-world **impactful projects**
-- Create opportunities for **freelancing & career growth**
+- Showcase skills  
+- Track growth  
+- Build real-world projects  
+- Freelancing & career growth  
 
 ---
 
@@ -80,6 +80,22 @@ Hands-on practice, small builds, and algorithm implementations to strengthen cor
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=suvaniwaghmare085-droid&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suvaniwaghmare085-droid/suvaniwaghmare085-droid/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
