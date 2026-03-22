@@ -43,53 +43,68 @@ Hands-on practice, small builds, and algorithm implementations.
 
 ## 🛠 Skills & Technologies
 
-**Languages:**
+**💻 Languages & Programming:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge)
 
-**Web:**
+**🌐 Web Development:**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-0077B5?style=for-the-badge&logo=webflow&logoColor=white)
 
-**Core:**
+**📊 Data & ML:**
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-013243?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Libraries:**
-
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-013243?style=for-the-badge&logo=databricks&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools:**
+**🛠 Tools:**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
 
-**Soft Skills:**
-
-![Communication](https://img.shields.io/badge/Communication-FF69B4?style=for-the-badge)
-![Teamwork](https://img.shields.io/badge/Teamwork-6A0DAD?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-E91E63?style=for-the-badge)
-![Time Management](https://img.shields.io/badge/Time%20Management-0077B5?style=for-the-badge)
-![Presentation Skills](https://img.shields.io/badge/Presentation%20Skills-FF6F00?style=for-the-badge)
-
-**Creative Skills:**
+**✍️ Writing & Content:**
 
 ![Content Writing](https://img.shields.io/badge/Content%20Writing-FF69B4?style=for-the-badge&logo=medium&logoColor=white)
-![Storytelling](https://img.shields.io/badge/Storytelling-9C27B0?style=for-the-badge)
-![Social Media Management](https://img.shields.io/badge/Social%20Media%20Management-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Brand Storytelling](https://img.shields.io/badge/Brand%20Storytelling-1572B6?style=for-the-badge)
+![Technical Writing](https://img.shields.io/badge/Technical%20Writing-9C27B0?style=for-the-badge)
+![Creative Writing](https://img.shields.io/badge/Creative%20Writing-E91E63?style=for-the-badge)
+![Fiction Writing](https://img.shields.io/badge/Fiction%20Writing-FF6F00?style=for-the-badge)
+![Non-fiction Writing](https://img.shields.io/badge/Non--fiction%20Writing-6A0DAD?style=for-the-badge)
+![Report Writing](https://img.shields.io/badge/Report%20Writing-0077B5?style=for-the-badge)
+![Web Content Writing](https://img.shields.io/badge/Web%20Content%20Writing-1572B6?style=for-the-badge)
+![Freelancing](https://img.shields.io/badge/Freelancing-2EC866?style=for-the-badge)
+
+**📱 Social Media & Marketing:**
+
+![Social Media Marketing](https://img.shields.io/badge/Social%20Media%20Marketing-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Social Media Management](https://img.shields.io/badge/Social%20Media%20Management-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![Brand Storytelling](https://img.shields.io/badge/Brand%20Storytelling-FF6F00?style=for-the-badge)
+
+**🤝 Interpersonal & Professional:**
+
+![Leadership](https://img.shields.io/badge/Leadership-6A0DAD?style=for-the-badge)
+![Team Leadership](https://img.shields.io/badge/Team%20Leadership-0077B5?style=for-the-badge)
+![Leadership Development](https://img.shields.io/badge/Leadership%20Development-FF6F00?style=for-the-badge)
+![Management](https://img.shields.io/badge/Management-E91E63?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/Time%20Management-2EC866?style=for-the-badge)
+![Planning](https://img.shields.io/badge/Planning-013243?style=for-the-badge)
+![Organization Skills](https://img.shields.io/badge/Organization%20Skills-9C27B0?style=for-the-badge)
+![Self Confidence](https://img.shields.io/badge/Self%20Confidence-FF69B4?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-E51937?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-1572B6?style=for-the-badge)
+
 
 ---
-
-## 🎯 Goals
 
 ## 🎯 Goals
 
