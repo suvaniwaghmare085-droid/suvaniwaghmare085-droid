@@ -211,6 +211,14 @@ Hands-on practice, small builds, and algorithm implementations.
 
 ---
 
+## 💬 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
 <div align="center">
    <img src="Pixilart - Live on.gif" width="80%" />
 </div>
