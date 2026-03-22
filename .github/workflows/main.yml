@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pacman
 
 on:
   schedule:
@@ -6,20 +6,21 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
-
-      - name: Generate snake
-        uses: Platane/snk@v3
+      
+      - name: Generate Pacman
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: suvaniwaghmare085-droid
           outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - name: Push to output branch
+           dist/pacman.svg?color_snake=#FF69B4&color_dots=#1a1b27,#ff85c1,#ff4da6,#ff1a8c,#ff66b2
+            
+      - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
