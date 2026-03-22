@@ -79,6 +79,23 @@ Hands-on practice, small builds, and algorithm implementations.
 ![Build Projects](https://img.shields.io/badge/🚀%20Build%20Real--World%20Projects-0077B5?style=for-the-badge)
 ![Freelancing](https://img.shields.io/badge/💼%20Freelancing%20%26%20Career%20Growth-2EC866?style=for-the-badge)
 
+
+
+## 🎯 Goals
+
+![Showcase Skills](https://img.shields.io/badge/🎯%20Showcase%20Skills-FF6F00?style=for-the-badge)
+![Track Growth](https://img.shields.io/badge/📈%20Track%20Growth-6A0DAD?style=for-the-badge)
+![Build Projects](https://img.shields.io/badge/🚀%20Build%20Real--World%20Projects-0077B5?style=for-the-badge)
+![Freelancing](https://img.shields.io/badge/💼%20Freelancing%20%26%20Career%20Growth-2EC866?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/🧠%20Learn%20Problem%20Solving%20Skills-E91E63?style=for-the-badge)
+![Freelance Writer](https://img.shields.io/badge/✍️%20Freelance%20Writer-FF69B4?style=for-the-badge)
+![Software Engineer](https://img.shields.io/badge/💻%20Aspiring%20Software%20Engineer-0077B5?style=for-the-badge)
+![Web Developer](https://img.shields.io/badge/🌐%20Aspiring%20Web%20Developer-1572B6?style=for-the-badge)
+![Social Media Manager](https://img.shields.io/badge/📱%20Social%20Media%20Manager-E4405F?style=for-the-badge)
+![Content Specialist](https://img.shields.io/badge/📋%20Content%20Management%20Specialist-9C27B0?style=for-the-badge)
+![Data Scientist](https://img.shields.io/badge/🔬%20Future%20Data%20Scientist-013243?style=for-the-badge)
+![Tech Creativity](https://img.shields.io/badge/⚡%20Tech%20%2B%20Creativity-FF6F00?style=for-the-badge)
+
 ---
 
 ## 🌐 Connect With Me
