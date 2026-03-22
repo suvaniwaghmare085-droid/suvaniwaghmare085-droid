@@ -149,6 +149,15 @@ Hands-on practice, small builds, and algorithm implementations.
    <a href="https://www.hackerearth.com/suvaniwaghmare02">
     <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=Blue"/>
   </a>
+   <a href="https://www.codechef.com/users/suvani_12">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://hashnode.com/@suvani12">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/suvani12">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
 </p>
 
 ---
