@@ -75,7 +75,14 @@ Hands-on practice, small builds, and algorithm implementations.
 - Showcase skills  
 - Track growth  
 - Build real-world projects  
-- Freelancing & career growth  
+- Freelancing & career growth
+
+## 🎯 Goals
+
+![Showcase Skills](https://img.shields.io/badge/🎯%20Showcase%20Skills-FF6F00?style=for-the-badge)
+![Track Growth](https://img.shields.io/badge/📈%20Track%20Growth-6A0DAD?style=for-the-badge)
+![Build Projects](https://img.shields.io/badge/🚀%20Build%20Real--World%20Projects-0077B5?style=for-the-badge)
+![Freelancing](https://img.shields.io/badge/💼%20Freelancing%20%26%20Career%20Growth-2EC866?style=for-the-badge)
 
 ---
 
