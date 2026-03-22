@@ -1,65 +1,92 @@
-# 🌌 Welcome to My Universe — Suvani Waghmare  
+## Hi there ʕ•ᴥ•ʔ
 
-👩‍💻 **B.Tech CSE Student | Specialization: Data Science & Machine Learning**  
-✍️ **Aspiring Data Scientist | Freelance Story Writer | Problem Solver**  
-✨ *I believe in the power of curiosity, creativity, and code.*  
+<div align="center">
+  <img src="assets/banner.gif" width="100%" />
+</div>
 
----
+<h1 align="center">Hi 👋, I'm Suvani Waghmare</h1>
 
-## 🌟 My Journey  
-From debugging my first "Hello World" to exploring the depths of **Machine Learning**, my journey has been about growth, resilience, and passion.  
-I’m not just a coder — I’m a storyteller. Whether it’s through **algorithms** or **words**, I love creating things that leave an impact.  
+<h3 align="center">💻 Aspiring Software Engineer | ✍️ Writer | 📊 Data Science Enthusiast| Future Data Scientist | Python | DSA | Machine Learning Learner | Passionate About Tech + Creativity</h3>
 
-- 🎓 Currently pursuing **Computer Science Engineering** in India  
-- 🔭 Exploring **Java, DSA, and Web Development** alongside my core love for **Python & Data Science**  
-- 🌱 Building projects that merge **logic with creativity**  
-- ✍️ Freelance writer supporting my education and family, proving that skills can be both technical and artistic  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&width=600&lines=B.Tech+CSE+Student+💻;Data+Science+%26+AI+%26+ML+📊;Freelance+Writer+✍️;Python+•+Java+•+DSA" />
+</p>
 
 ---
 
-## 🛠 Tech Arsenal  
-Here are the tools I wield to turn ideas into reality:  
+# 🌟 Personal Portfolio
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+Welcome to my personal portfolio!  
+I am a **B.Tech Computer Science Engineering student** specializing in **Data Science, Artificial Intelligence (AI), and Machine Learning (ML)**.
+
+This repository reflects my **journey, growth, and dedication** as I explore technology and problem-solving.
 
 ---
 
-## 📊 GitHub Chronicles  
-Every commit tells a story — of persistence, learning, and progress.  
+## 👩‍💻 About Me
 
-![Suvani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=suvaniwaghmare085-droid&theme=tokyonight)  
-
----
-
-## 🌐 Connect with Me  
-Let’s collaborate, share ideas, or just talk about tech & creativity:  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvani-waghmare-4a0949379)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Suvani_12/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suvaniwaghmare085-droid)  
+- 🎓 B.Tech CSE (Data Science & ML)
+- 💻 Passionate about solving real-world problems using tech
+- ✍️ Freelance Story Writer
+- 🚀 Aspiring Software Engineer
+- ⚡ Fun fact: I can write **20+ stories in a day**
 
 ---
 
-## ✨ Philosophy  
-> “Code is poetry, data is the rhythm, and creativity is the soul. Together, they compose the symphony of innovation.”  
+## 📂 What You’ll Find Here
+
+### 🚀 Projects
+Practical implementations solving real-world problems using **AI, ML, and Data Science**.  
+Includes clean code, documentation, and approach explanation.
+
+### 🧪 Experiments & Learning
+Hands-on practice, small builds, and algorithm implementations to strengthen core concepts.
 
 ---
 
-## 🚀 Fun Extras  
-- 🌌 Dream Project: Building an AI tool that blends **data science with storytelling**  
-- 📚 Favorite Hobby: Writing short stories that explore human emotions  
-- 🎶 Productivity Hack: Lo‑fi beats + clean code = flow state  
+## 🛠 Skills & Technologies
+
+- **Languages:** Python, Java, C  
+- **Web:** HTML, CSS  
+- **Core:** Data Structures & Algorithms  
+- **Libraries:** Pandas, NumPy, scikit-learn  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 🏆 Closing Note  
-This profile isn’t just about repositories — it’s about a journey.  
-A journey of a student who codes, writes, learns, and dreams big.  
-If you’re here, you’re part of my story too. Let’s build something amazing together.  
+## 🎯 Goals of This Portfolio
+
+- Showcase my **technical and problem-solving skills**
+- Track my **learning journey and growth**
+- Build real-world **impactful projects**
+- Create opportunities for **freelancing & career growth**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suvani-waghmare-4a0949379">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/suvaniwaghmare085-droid">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Suvani_12/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  ✨ "Code. Learn. Build. Write. Repeat." ✨
+</p>
