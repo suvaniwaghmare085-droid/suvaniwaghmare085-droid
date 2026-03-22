@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=77DD77&center=true&width=600&lines=Aspiring+ML+Engineer+%F0%9F%A7%AE;B.Tech+CSE+%7C+Data+Science+%26+ML;Exploring+AI+%26+Cloud+Technologies+%F0%9F%8D%80;Python+%E2%80%A2+C+%E2%80%A2+SQL+%E2%80%A2+DSA" alt="Typing SVG" />
+   <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Aspiring+Data+Scientist+%7C+%E2%9C%8D%EF%B8%8F+Writer+%7C+%F0%9F%93%8A+Data+Science+Enthusiast+%7C+Python+%7C+DSA+%7C+Machine+Learning+Learner+%7C+Passionate+About+Tech+%2B+Creativity)](https://git.io/typing-svg)" alt="Typing SVG" />
 </p>
 ---
 
