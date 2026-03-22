@@ -76,26 +76,18 @@ Hands-on practice, small builds, and algorithm implementations.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suvaniwaghmare085-droid&theme=radical" />
-</p>
-
----
-
-## 📊 GitHub Stats & 🔥 Streak
+## 📊 GitHub Stats & Streak Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=suvaniwaghmare085-droid&theme=radical" />
+</div>
+
+---
+
+## 🏆 LeetCode & 💻 HackerRank Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img src="https://hsrankcard.vercel.app/api/card?suvaniwaghmare01=suvaniwaghmare01&theme=radical" />
 </div>
 
 ---
