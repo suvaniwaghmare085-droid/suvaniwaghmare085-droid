@@ -12,6 +12,30 @@
 
 ---
 
+<div align="center">
+   <img src="assets/clover.gif" width="100%" />
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=suvaniwaghmare085-droid&label=Profile%20Views&color=FF69B4&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/suvaniwaghmare085-droid?label=Followers&style=for-the-badge&color=6A0DAD)
+![Stars](https://img.shields.io/github/stars/suvaniwaghmare085-droid?label=Total%20Stars&style=for-the-badge&color=FF6F00)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvani-waghmare-4a0949379)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/suvaniwaghmare085-droid)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Suvani_12/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/suvaniwaghmare01)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/suvani_12)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/suvani12)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@suvani12)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM_USERNAME)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@YOUR_HACKEREARTH_USERNAME)
+
+</div>
+
+---
+
 # 🌟 Personal Portfolio
 
 Welcome to my personal portfolio!  
