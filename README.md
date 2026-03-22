@@ -95,7 +95,7 @@ Hands-on practice, small builds, and algorithm implementations.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suvaniwaghmare085-droid/suvaniwaghmare085-droid/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/suvaniwaghmare085-droid/suvaniwaghmare085-droid/output/pacman.svg" alt="Pacman"/>
 </p>
 
 ---
