@@ -72,6 +72,12 @@ Hands-on practice, small builds, and algorithm implementations.
   <a href="https://leetcode.com/u/Suvani_12/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+    <a href="https://www.hackerrank.com/profile/suvaniwaghmare01">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+   <a href="https://medium.com/suvaniwaghmare02">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -84,14 +90,13 @@ Hands-on practice, small builds, and algorithm implementations.
 
 ---
 
-## 🏆 LeetCode & 💻 HackerRank Stats
+## 🏆 LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap" />
-  <a href="https://www.hackerrank.com/profile/suvaniwaghmare01">
-  <img src="https://img.shields.io/badge/Visit%20My%20HackerRank%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
 </div>
+
 ---
+
 ## 🐍 Contribution Snake
 
 <picture>
