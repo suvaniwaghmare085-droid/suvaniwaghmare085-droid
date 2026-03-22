@@ -1,7 +1,8 @@
 ## Hi there ʕ•ᴥ•ʔ
 
 <div align="center">
-  <img src="assets/banner.gif" width="100%" />
+  <img src="assets/![download (2)](https://github.com/user-attachments/assets/dbd68895-4f5e-4bc6-b6bb-c96f9e55926b)
+" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Suvani Waghmare</h1>
