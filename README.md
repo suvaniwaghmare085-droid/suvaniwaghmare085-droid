@@ -57,6 +57,8 @@ Hands-on practice, small builds, and algorithm implementations.
 **Core:**
 
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-013243?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Libraries:**
 
@@ -69,6 +71,21 @@ Hands-on practice, small builds, and algorithm implementations.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Soft Skills:**
+
+![Communication](https://img.shields.io/badge/Communication-FF69B4?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-6A0DAD?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-E91E63?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/Time%20Management-0077B5?style=for-the-badge)
+![Presentation Skills](https://img.shields.io/badge/Presentation%20Skills-FF6F00?style=for-the-badge)
+
+**Creative Skills:**
+
+![Content Writing](https://img.shields.io/badge/Content%20Writing-FF69B4?style=for-the-badge&logo=medium&logoColor=white)
+![Storytelling](https://img.shields.io/badge/Storytelling-9C27B0?style=for-the-badge)
+![Social Media Management](https://img.shields.io/badge/Social%20Media%20Management-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Brand Storytelling](https://img.shields.io/badge/Brand%20Storytelling-1572B6?style=for-the-badge)
 
 ---
 
