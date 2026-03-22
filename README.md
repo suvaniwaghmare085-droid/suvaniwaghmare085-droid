@@ -49,7 +49,6 @@ Hands-on practice, small builds, and algorithm implementations.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge)
 
 **🌐 Web Development:**
 
@@ -57,7 +56,7 @@ Hands-on practice, small builds, and algorithm implementations.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web%20Development-0077B5?style=for-the-badge&logo=webflow&logoColor=white)
 
-**📊 Data & ML:**
+**📊 Data Science & ML:**
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-013243?style=for-the-badge&logo=databricks&logoColor=white)
@@ -65,6 +64,8 @@ Hands-on practice, small builds, and algorithm implementations.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge)
+
 
 **🛠 Tools:**
 
