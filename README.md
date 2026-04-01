@@ -202,15 +202,12 @@ Hands-on practice, small builds, and algorithm implementations.
 
 ## 🐍 Contribution Snake
 
-<div>
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/suvaniwaghmare085-droid/YOUR_REPO/output/github-snake-dark.svg" />
-  <img
-    src="https://raw.githubusercontent.com/suvaniwaghmare085-droid/YOUR_REPO/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/suvaniwaghmare085-droid/suvaniwaghmare085-droid/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/suvaniwaghmare085-droid/suvaniwaghmare085-droid/output/github-snake.svg"
     alt="github contribution snake" />
 </picture>
-</div>
 
 ---
 
