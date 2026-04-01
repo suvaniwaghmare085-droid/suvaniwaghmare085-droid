@@ -186,10 +186,10 @@ Hands-on practice, small builds, and algorithm implementations.
 ---
 
 ## 📊 GitHub Stats & Streak Stats
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=suvaniwaghmare085-droid&theme=radical" />
-</div>
+</p>
 
 ---
 
