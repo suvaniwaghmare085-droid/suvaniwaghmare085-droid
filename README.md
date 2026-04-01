@@ -35,15 +35,6 @@
 
 ---
 
-# 🌟 Personal Portfolio
-
-Welcome to my personal portfolio!  
-I am a **B.Tech Computer Science Engineering student** specializing in **Data Science, Artificial Intelligence (AI), and Machine Learning (ML)**.
-
-This repository reflects my **journey, growth, and dedication** as I explore technology and problem-solving.
-
----
-
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE (Data Science & ML)
