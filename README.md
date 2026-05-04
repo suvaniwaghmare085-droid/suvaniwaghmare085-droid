@@ -213,6 +213,18 @@ Hands-on practice, small builds, and algorithm implementations.
 
 ---
 
+
+## 🏅 Achievements & Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+
 ## 💬 Quote of the Day
 
 <div align="center">
