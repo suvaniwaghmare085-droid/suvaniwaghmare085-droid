@@ -191,21 +191,10 @@ Hands-on practice, small builds, and algorithm implementations.
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/suvaniwaghmare085-droid/suvaniwaghmare085-droid/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/suvaniwaghmare085-droid/suvaniwaghmare085-droid/output/github-snake.svg"
-    alt="github contribution snake" />
-</picture>
-
----
-
 
 ## 📈 Contribution Graph
  
-<div align="center">
+#<div align="center">
  
 [![Suvani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suvaniwaghmare085-droid&theme=github-compact&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
