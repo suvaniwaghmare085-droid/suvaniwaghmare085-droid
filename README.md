@@ -232,18 +232,6 @@ alt="GitHub Streak Stats"
 ---
 
 
-## 📊 GitHub Stats & Streak Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/suvaniwaghmare085-droid/suvaniwaghmare085-droid/main/github-metrics.svg" />
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suvaniwaghmare085-droid&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🏅 Achievements & Trophies
 
 <div align="center">
