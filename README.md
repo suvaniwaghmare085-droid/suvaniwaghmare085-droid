@@ -244,6 +244,12 @@ alt="GitHub Streak Stats"
 
 ---
 
+<div align="center">
+  <img src="https://metrics.lecoq.io/suvaniwaghmare085-droid?template=classic&isocalendar=1&isocalendar.duration=full-year&languages=1&activity=1&config.timezone=Asia%2FKolkata&config.display=large" />
+</div>
+
+---
+
 ## 🏅 Achievements & Trophies
 
 <div align="center">
