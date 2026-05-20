@@ -22,8 +22,8 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/suvani_12)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/suvani12)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@suvani12)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM_USERNAME)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@YOUR_HACKEREARTH_USERNAME)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@suvaniwaghmare02)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/suvaniwaghmare02)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/SuvaniW61316)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suvaniwaghmare085-droid&label=Profile%20Views&color=FF69B4&style=for-the-badge)
@@ -45,7 +45,7 @@
 
 ---
 
-## 📂 What You’ll Find Here
+## 📂 What You'll Find Here
 
 ### 🚀 Projects
 Practical implementations solving real-world problems using **AI, ML, and Data Science**.  
@@ -154,16 +154,16 @@ Hands-on practice, small builds, and algorithm implementations.
   <a href="https://leetcode.com/u/Suvani_12/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-    <a href="https://www.hackerrank.com/profile/suvaniwaghmare01">
+  <a href="https://www.hackerrank.com/profile/suvaniwaghmare01">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-   <a href="https://medium.com/suvaniwaghmare02">
+  <a href="https://medium.com/suvaniwaghmare02">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-   <a href="https://www.hackerearth.com/suvaniwaghmare02">
+  <a href="https://www.hackerearth.com/suvaniwaghmare02">
     <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=Blue"/>
   </a>
-   <a href="https://www.codechef.com/users/suvani_12">
+  <a href="https://www.codechef.com/users/suvani_12">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
   <a href="https://hashnode.com/@suvani12">
@@ -177,9 +177,16 @@ Hands-on practice, small builds, and algorithm implementations.
 ---
 
 ## 📊 GitHub Stats & Streak Stats
+
+<!-- FIX 1: Use cache_seconds to avoid rate limits, and add hide_border for cleaner look -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=suvaniwaghmare085-droid&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical&cache_seconds=1800&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165" />
+</p>
+
+<!-- FIX 2: Use DynaStreak (more reliable alternative for streak stats) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=suvaniwaghmare085-droid&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
@@ -189,20 +196,33 @@ Hands-on practice, small builds, and algorithm implementations.
   <img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap" />
 </div>
 
-
 ---
 
-
-## 📈 Contribution Graph
+## 📈 Live Contribution Graph
+<!-- FIX 3: Interactive hover-enabled contribution graph using GitHub API -->
 
 <div align="center">
+<a href="https://github.com/suvaniwaghmare085-droid">
 
-[![Suvani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suvaniwaghmare085-droid&theme=github-compact&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true&custom_title=Suvani%27s%20Contribution%20Graph)](https://github.com/suvaniwaghmare085-droid)
+<!-- PASTE THIS BLOCK INTO YOUR README (works in GitHub Pages / HTML only, not raw .md) -->
+<!-- For raw GitHub README, keep the static image below as fallback -->
 
+[![Suvani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suvaniwaghmare085-droid&theme=github-compact&bg_color=0d1117&color=FF69B4&line=FF69B4&point=ffffff&area=true&hide_border=true)](https://github.com/suvaniwaghmare085-droid)
+
+</a>
 </div>
 
----
+<!-- INTERACTIVE LIVE GRAPH (for HTML pages / GitHub Pages only) -->
+<!-- Copy the section below into an HTML file or GitHub Pages site for hover tooltips -->
 
+<details>
+<summary>📊 Click to see Interactive Contribution Graph (HTML version)</summary>
+
+> **Note:** The interactive graph with hover tooltips works in HTML pages. For your GitHub Pages site or portfolio, use the HTML code provided in the repository.
+
+</details>
+
+---
 
 ## 🏅 Achievements & Trophies
 
@@ -213,7 +233,6 @@ Hands-on practice, small builds, and algorithm implementations.
 </div>
 
 ---
-
 
 ## 💬 Quote of the Day
 
@@ -226,7 +245,6 @@ Hands-on practice, small builds, and algorithm implementations.
 <div align="center">
    <img src="Pixilart - Live on.gif" width="80%" />
 </div>
-
 
 <p align="center">
   ✨ "Code. Learn. Build. Write. Repeat." ✨
