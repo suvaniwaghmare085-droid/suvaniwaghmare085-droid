@@ -177,6 +177,19 @@ Hands-on practice, small builds, and algorithm implementations.
 
 ---
 
+
+## 📊 Activity & Contributions
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavijha12&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
+
+---
+
 ## 📊 GitHub Stats & Streak Stats
 
 <p align="center">
