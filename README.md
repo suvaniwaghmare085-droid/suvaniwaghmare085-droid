@@ -45,7 +45,6 @@
 
 ---
 
-<div align ="center">
 ## 📂 What You'll Find Here
 
 ### 🚀 Projects
@@ -56,6 +55,8 @@ Hands-on practice, small builds, and algorithm implementations.
 
 ---
 
+<div align ="center">
+   
 ## 🛠 Skills & Technologies
 
 **💻 Languages & Programming:**
