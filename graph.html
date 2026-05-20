@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Suvani's Contribution Graph</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #0d1117;
+    font-family: -apple-system, 'Segoe UI', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 16px 60px;
+    min-height: 100vh;
+    color: #e6edf3;
+  }
+
+  .card {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 14px;
+    padding: 28px 32px 22px;
+    width: 100%;
+    max-width: 900px;
+  }
+
+  .card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 22px;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .card-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #e6edf3;
+  }
+
+  .card-title span { color: #22c55e; font-weight: 700; font-size: 1rem; }
+
+  .username-tag {
+    font-size: 0.72rem;
+    color: #8b949e;
+    background: #21262d;
+    border: 1px solid #30363d;
+    border-radius: 20px;
+    padding: 3px 10px;
+  }
+
+  .months {
+    display: flex;
+    margin-left: 30px;
+    margin-bottom: 6px;
+    height: 16px;
+    position: relative;
+  }
+
+  .month-lbl {
+    position: absolute;
+    font-size: 0.68rem;
+    color: #8b949e;
+    white-space: nowrap;
+  }
+
+  .grid-row { display: flex; gap: 0; }
+
+  .day-col {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-around;
+    width: 28px;
+    padding-right: 6px;
+    height: calc(7 * 14px + 6 * 3px);
+    flex-shrink: 0;
+  }
+
+  .day-col span { font-size: 0.65rem; color: #8b949e; line-height: 14px; }
+
+  .weeks { display: flex; gap: 3px; flex: 1; }
+  .week  { display: flex; flex-direction: column; gap: 3px; }
+
+  .cell {
+    width: 14px; height: 14px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: transform 0.12s ease, outline 0.1s;
+    outline: 2px solid transparent;
+    flex-shrink: 0;
+  }
+
+  .cell:hover {
+    transform: scale(1.5);
+    outline: 2px solid rgba(34,197,94,0.8);
+    z-index: 20;
+    position: relative;
+  }
+
+  .cell[data-level="0"] { background: #161b22; border: 1px solid #21262d; }
+  .cell[data-level="1"] { background: #0e4429; }
+  .cell[data-level="2"] { background: #006d32; }
+  .cell[data-level="3"] { background: #26a641; }
+  .cell[data-level="4"] { background: #39d353; }
+  .cell.future { background: #0d1117; border: 1px dashed #21262d; cursor: default; opacity: 0.3; }
+
+  /* shimmer skeleton */
+  .cell.skeleton {
+    animation: shimmer 1.4s infinite;
+    border: none;
+    cursor: default;
+  }
+  @keyframes shimmer {
+    0%,100% { background: #161b22; }
+    50%      { background: #21262d; }
+  }
+
+  #tt {
+    position: fixed;
+    background: #1c2128;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 9px 13px;
+    font-size: 0.8rem;
+    color: #e6edf3;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.12s;
+    z-index: 9999;
+    white-space: nowrap;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.55);
+  }
+  #tt.show { opacity: 1; }
+  #tt .tc { font-weight: 700; color: #39d353; font-size: 0.88rem; }
+  #tt .td { color: #8b949e; font-size: 0.72rem; margin-top: 3px; }
+
+  .legend {
+    display: flex; align-items: center; gap: 5px;
+    margin-top: 16px; justify-content: flex-end;
+    font-size: 0.7rem; color: #8b949e;
+  }
+  .lc { width: 12px; height: 12px; border-radius: 2px; }
+
+  .status {
+    margin-top: 14px; font-size: 0.72rem;
+    color: #8b949e; text-align: center;
+  }
+  .dot {
+    display: inline-block; width: 7px; height: 7px;
+    border-radius: 50%; background: #22c55e;
+    margin-right: 5px; animation: pulse 2s infinite;
+  }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.2} }
+  .err .dot { background: #f85149; animation: none; }
+
+  .back-link {
+    margin-top: 24px;
+    font-size: 0.78rem;
+    color: #8b949e;
+    text-decoration: none;
+    border: 1px solid #30363d;
+    border-radius: 20px;
+    padding: 5px 14px;
+    transition: color 0.15s, border-color 0.15s;
+  }
+  .back-link:hover { color: #22c55e; border-color: #22c55e; }
+</style>
+</head>
+<body>
+
+<div class="card">
+  <div class="card-header">
+    <div class="card-title">📈 Live Contribution Graph &nbsp;·&nbsp; <span id="total-lbl">—</span> contributions this year</div>
+    <div class="username-tag">suvaniwaghmare085-droid</div>
+  </div>
+
+  <div class="months" id="months"></div>
+
+  <div class="grid-row">
+    <div class="day-col">
+      <span></span><span>Mon</span><span></span>
+      <span>Wed</span><span></span><span>Fri</span><span></span>
+    </div>
+    <div class="weeks" id="weeks"></div>
+  </div>
+
+  <div class="legend">
+    Less
+    <div class="lc" style="background:#161b22;border:1px solid #21262d"></div>
+    <div class="lc" style="background:#0e4429"></div>
+    <div class="lc" style="background:#006d32"></div>
+    <div class="lc" style="background:#26a641"></div>
+    <div class="lc" style="background:#39d353"></div>
+    More
+  </div>
+
+  <div class="status" id="status">
+    <span class="dot"></span>Fetching live data…
+  </div>
+</div>
+
+<a class="back-link" href="https://github.com/suvaniwaghmare085-droid">← Back to GitHub Profile</a>
+
+<div id="tt"><div class="tc" id="tc"></div><div class="td" id="td"></div></div>
+
+<script>
+const USERNAME = 'suvaniwaghmare085-droid';
+const MONTHS   = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const tt       = document.getElementById('tt');
+
+/* ── date scaffold ── */
+function buildWeeks() {
+  const today = new Date(); today.setHours(0,0,0,0);
+  const end   = new Date(today);
+  end.setDate(today.getDate() + (6 - today.getDay()));      // end on Saturday
+  const start = new Date(end);
+  start.setDate(end.getDate() - 52 * 7 - 6);                // 53 full weeks back
+
+  const weeks = [], cur = new Date(start);
+  while (cur <= end) {
+    const week = [];
+    for (let d = 0; d < 7; d++) { week.push(new Date(cur)); cur.setDate(cur.getDate()+1); }
+    weeks.push(week);
+  }
+  return { weeks, today };
+}
+
+const fmt      = d => d.toISOString().split('T')[0];
+const friendly = d => d.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+const toLevel  = n => n===0?0:n<=2?1:n<=5?2:n<=9?3:4;
+
+/* ── skeleton ── */
+function skeleton(weeks) {
+  const el = document.getElementById('weeks');
+  weeks.forEach(week => {
+    const col = document.createElement('div'); col.className='week';
+    week.forEach(()=>{ const c=document.createElement('div'); c.className='cell skeleton'; col.appendChild(c); });
+    el.appendChild(col);
+  });
+}
+
+/* ── fetch ── */
+async function fetchData() {
+  try {
+    const r = await fetch(`https://github-contributions-api.jogruber.de/v4/${USERNAME}?y=last`);
+    if (!r.ok) throw 0;
+    const j = await r.json();
+    const map={}, total_ref={n:0};
+    (j.contributions||[]).forEach(c=>{ map[c.date]={count:c.count,level:c.level}; total_ref.n+=c.count; });
+    return { map, total: total_ref.n };
+  } catch(_) { return { map:{}, total:0, failed:true }; }
+}
+
+/* ── render ── */
+function render(weeks, today, map, total) {
+  const weeksEl  = document.getElementById('weeks');
+  const monthsEl = document.getElementById('months');
+  weeksEl.innerHTML = ''; monthsEl.innerHTML = '';
+  document.getElementById('total-lbl').textContent = total.toLocaleString();
+
+  const seen = new Set();
+  const CW   = 17; // cell(14) + gap(3)
+
+  weeks.forEach((week, wi) => {
+    const mKey = `${week[0].getFullYear()}-${week[0].getMonth()}`;
+    if (!seen.has(mKey) && wi > 0) {
+      seen.add(mKey);
+      const lbl = document.createElement('div');
+      lbl.className='month-lbl'; lbl.style.left=(wi*CW)+'px';
+      lbl.textContent = MONTHS[week[0].getMonth()];
+      monthsEl.appendChild(lbl);
+    }
+
+    const col = document.createElement('div'); col.className='week';
+    week.forEach(date => {
+      const cell = document.createElement('div'); cell.className='cell';
+      const ds   = fmt(date);
+      if (date > today) {
+        cell.classList.add('future');
+      } else {
+        const c = map[ds]||{count:0,level:0};
+        cell.dataset.level = c.level ?? toLevel(c.count);
+        cell.addEventListener('mouseenter', e => showTip(e, c.count, date));
+        cell.addEventListener('mousemove',  e => { tt.style.left=(e.clientX+16)+'px'; tt.style.top=(e.clientY-56)+'px'; });
+        cell.addEventListener('mouseleave', () => tt.classList.remove('show'));
+      }
+      col.appendChild(cell);
+    });
+    weeksEl.appendChild(col);
+  });
+}
+
+function showTip(e, count, date) {
+  document.getElementById('tc').textContent = count===0?'No contributions':`${count} contribution${count!==1?'s':''}`;
+  document.getElementById('td').textContent = friendly(date);
+  tt.style.left=(e.clientX+16)+'px'; tt.style.top=(e.clientY-56)+'px';
+  tt.classList.add('show');
+}
+
+function setStatus(ok, total) {
+  const s = document.getElementById('status');
+  if (ok) {
+    s.innerHTML = `<span class="dot"></span>Live · ${total.toLocaleString()} contributions in the last year`;
+  } else {
+    s.classList.add('err');
+    s.innerHTML = `<span class="dot"></span>Could not load data — API may be down. Try refreshing in a few minutes.`;
+  }
+}
+
+/* ── init ── */
+(async () => {
+  const { weeks, today } = buildWeeks();
+  skeleton(weeks);
+  const { map, total, failed } = await fetchData();
+  render(weeks, today, map, total);
+  setStatus(!failed, total);
+})();
+</script>
+</body>
+</html>
