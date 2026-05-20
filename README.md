@@ -234,8 +234,10 @@ alt="GitHub Streak Stats"
 
 ## 📊 GitHub Stats & Streak Stats
 
+## 📊 GitHub Stats & Streak Stats
+
 <div align="center">
-  <img src="github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/suvaniwaghmare085-droid/suvaniwaghmare085-droid/main/github-metrics.svg" />
 </div>
 
 <p align="center">
