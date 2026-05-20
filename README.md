@@ -185,7 +185,7 @@ Hands-on practice, small builds, and algorithm implementations.
   <td width="50%" align="center">
 
 <img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaishnavijha12&theme=tokyonight" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suvaniwaghmare085-droid&theme=tokyonight" 
 alt="GitHub Stats" 
 />
 
