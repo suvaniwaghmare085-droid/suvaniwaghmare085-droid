@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: suvaniwaghmare085-droid
@@ -22,3 +22,6 @@ jobs:
           plugin_languages_limit: 8
           config_timezone: Asia/Calcutta
           filename: github-metrics.svg
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "Update GitHub metrics"
+          output_action: commit
