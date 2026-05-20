@@ -194,7 +194,7 @@ alt="GitHub Stats"
 <td width="50%" align="center">
 
 <img 
-src="https://github-readme-streak-stats.herokuapp.com?user=vaishnavijha12&theme=tokyonight&hide_border=true" 
+src="https://github-readme-streak-stats.herokuapp.com?user=suvaniwaghmare085-droid&theme=tokyonight&hide_border=true" 
 alt="GitHub Streak Stats" 
 />
 
