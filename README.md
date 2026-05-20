@@ -199,28 +199,13 @@ Hands-on practice, small builds, and algorithm implementations.
 ---
 
 ## 📈 Live Contribution Graph
-<!-- FIX 3: Interactive hover-enabled contribution graph using GitHub API -->
+
 
 <div align="center">
-<a href="https://github.com/suvaniwaghmare085-droid">
 
-<!-- PASTE THIS BLOCK INTO YOUR README (works in GitHub Pages / HTML only, not raw .md) -->
-<!-- For raw GitHub README, keep the static image below as fallback -->
+[![Suvani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suvaniwaghmare085-droid&theme=github-compact&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true&custom_title=Suvani%27s%20Contribution%20Graph)](https://github.com/suvaniwaghmare085-droid)
 
-[![Suvani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suvaniwaghmare085-droid&theme=github-compact&bg_color=0d1117&color=FF69B4&line=FF69B4&point=ffffff&area=true&hide_border=true)](https://github.com/suvaniwaghmare085-droid)
-
-</a>
 </div>
-
-<!-- INTERACTIVE LIVE GRAPH (for HTML pages / GitHub Pages only) -->
-<!-- Copy the section below into an HTML file or GitHub Pages site for hover tooltips -->
-
-<details>
-<summary>📊 Click to see Interactive Contribution Graph (HTML version)</summary>
-
-> **Note:** The interactive graph with hover tooltips works in HTML pages. For your GitHub Pages site or portfolio, use the HTML code provided in the repository.
-
-</details>
 
 ---
 
