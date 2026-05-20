@@ -195,18 +195,9 @@ Hands-on practice, small builds, and algorithm implementations.
   <img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap" />
 </div>
 
----
-
-## 📈 Live Contribution Graph
-
-
-<div align="center">
-
-[![Suvani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suvaniwaghmare085-droid&theme=github-compact&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true&custom_title=Suvani%27s%20Contribution%20Graph)](https://github.com/suvaniwaghmare085-droid)
-
-</div>
 
 ---
+
 
 ## 📈 Contribution Graph
 
