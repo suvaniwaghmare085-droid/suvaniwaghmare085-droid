@@ -205,20 +205,6 @@ alt="GitHub Streak Stats"
 
 ---
 
-
-## 📊 GitHub Stats & Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suvaniwaghmare085-droid&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🏆 LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap" />
