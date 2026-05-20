@@ -231,7 +231,6 @@ alt="GitHub Streak Stats"
 
 ---
 
-## 📊 GitHub Stats & Streak Stats
 
 ## 📊 GitHub Stats & Streak Stats
 
