@@ -179,8 +179,8 @@ Hands-on practice, small builds, and algorithm implementations.
 ## 📊 GitHub Stats & Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical&cache_seconds=1800&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" />
 </p>
 
 <p align="center">
