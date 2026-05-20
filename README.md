@@ -45,6 +45,7 @@
 
 ---
 
+<div align ="center">
 ## 📂 What You'll Find Here
 
 ### 🚀 Projects
@@ -256,6 +257,7 @@ alt="GitHub Streak Stats"
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 </div>
 
 ---
