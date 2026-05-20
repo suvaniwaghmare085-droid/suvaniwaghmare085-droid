@@ -214,6 +214,19 @@ alt="GitHub Streak Stats"
 ---
 
 
+## 📊 Activity & Contributions
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suvaniwaghmare085-droid&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
+
+---
+
+
 ## 📈 Contribution Graph
 
 <div align="center">
