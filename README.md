@@ -208,6 +208,21 @@ Hands-on practice, small builds, and algorithm implementations.
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+<!-- Static image (auto-updates daily) — visible in GitHub README -->
+[![Suvani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suvaniwaghmare085-droid&theme=github-compact&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true)](https://suvaniwaghmare085-droid.github.io/suvaniwaghmare085-droid/graph.html)
+
+<!-- 👆 Clicking the graph opens the LIVE interactive version with hover tooltips -->
+
+[![Live Interactive Graph](https://img.shields.io/badge/📊%20Open%20Live%20Graph%20with%20Hover-22c55e?style=for-the-badge&labelColor=0d1117)](https://suvaniwaghmare085-droid.github.io/suvaniwaghmare085-droid/graph.html)
+
+</div>
+
+---
+
 ## 🏅 Achievements & Trophies
 
 <div align="center">
