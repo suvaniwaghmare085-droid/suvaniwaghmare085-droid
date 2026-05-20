@@ -178,6 +178,34 @@ Hands-on practice, small builds, and algorithm implementations.
 ---
 
 
+## 📊 GitHub Analytics
+
+<table align="center">
+<tr border="none">
+  <td width="50%" align="center">
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaishnavijha12&theme=tokyonight" 
+alt="GitHub Stats" 
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com?user=vaishnavijha12&theme=tokyonight&hide_border=true" 
+alt="GitHub Streak Stats" 
+/>
+
+
+
+</tr>
+</table>
+
+---
+
+
 ## 📊 GitHub Stats & Streak Stats
 
 <p align="center">
