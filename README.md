@@ -174,19 +174,6 @@ Hands-on practice, small builds, and algorithm implementations.
   </a>
 </p>
 
----
-
-
-## 📊 GitHub Stats & Streak Stats
-
-<p align="center">
-  <img src="./assets/stats.svg" height="165" />
-  <img src="./assets/langs.svg" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suvaniwaghmare085-droid&theme=radical&hide_border=true" />
-</p>
 
 ---
 
