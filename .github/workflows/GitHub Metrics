@@ -23,5 +23,4 @@ jobs:
           config_timezone: Asia/Calcutta
           filename: github-metrics.svg
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "Update GitHub metrics"
           output_action: commit
