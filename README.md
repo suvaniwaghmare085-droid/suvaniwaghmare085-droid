@@ -237,7 +237,7 @@ alt="GitHub Streak Stats"
 <div align="center">
 
 
-![Metrics](https://metrics.lecoq.io/suvaniwaghmare085-droid?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.categories=markup%2C%20programming&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/suvaniwaghmare085-droid?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.categories=markup%2C%20programming&config.timezone=Asia%2FCalcutta&v=2)
 
 </div>
 
