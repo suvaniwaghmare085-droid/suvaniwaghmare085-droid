@@ -1,3 +1,20 @@
+## 📊 GitHub Stats
+
+<table align="center">
+<tr>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  </td>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&theme=radical&hide_border=true" />
+  </td>
+</tr>
+</table>
+
+---
+
+
+
 <div align ="center"><h1> Welcome to My Universe !! </h1>
 </div>
 
