@@ -225,7 +225,7 @@ alt="GitHub Streak Stats"
 
 <!-- 👆 Clicking the graph opens the LIVE interactive version with hover tooltips -->
 
-[![Live Interactive Graph](https://img.shields.io/badge/📊%20Open%20Live%20Graph%20with%20Hover-22c55e?style=for-the-badge&labelColor=0d1117)](https://suvaniwaghmare085-droid.github.io/suvaniwaghmare085-droid/graph.html)
+<!--[![Live Interactive Graph](https://img.shields.io/badge/📊%20Open%20Live%20Graph%20with%20Hover-22c55e?style=for-the-badge&labelColor=0d1117)](https://suvaniwaghmare085-droid.github.io/suvaniwaghmare085-droid/graph.html) -->
 
 </div>
 
