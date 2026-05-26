@@ -245,15 +245,14 @@ alt="GitHub Streak Stats"
 ---
 
 
-## 🏅 Achievements & Trophies
+<!--## 🏅 Achievements & Trophies
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&theme=radical" />
    
-</div>
+</div> -->
 
 
----
 
 
 ## 💬 Quote of the Day
