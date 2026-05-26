@@ -248,17 +248,12 @@ alt="GitHub Streak Stats"
 ## 🏅 Achievements & Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
----
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical)
 
 ---
+
 
 ## 💬 Quote of the Day
 
