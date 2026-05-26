@@ -255,6 +255,11 @@ alt="GitHub Streak Stats"
 
 ---
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical)
+
+---
+
 ## 💬 Quote of the Day
 
 <div align="center">
