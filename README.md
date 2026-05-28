@@ -208,34 +208,6 @@ alt="GitHub Streak Stats"
 ---
 
 
-## 📊 GitHub Analytics
-
-<table align="center">
-<tr border="none">
-  <td width="50%" align="center">
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suvaniwaghmare085-droid&theme=tokyonight" 
-alt="GitHub Stats" 
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img 
-src="https://github-readme-streak-stats.herokuapp.com?user=suvaniwaghmare085-droid&theme=tokyonight&hide_border=true" 
-alt="GitHub Streak Stats" 
-/>
-
-
-
-</tr>
-</table>
-
----
-
-
 ## 🏆 LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap" />
