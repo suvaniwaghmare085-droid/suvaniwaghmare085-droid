@@ -207,13 +207,13 @@ alt="GitHub Streak Stats"
 
 ---
 
-<!--## 🏆 LeetCode Stats
+## 🏆 LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap" />
 </div>
 
 
---- -->
+--- 
 
 
 ## 📈 Contribution Graph
@@ -245,12 +245,12 @@ alt="GitHub Streak Stats"
 ---
 
 
-<!--## 🏅 Achievements & Trophies
+## 🏅 Achievements & Trophies
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&theme=radical" />
    
-</div> -->
+</div> 
 
 
 
