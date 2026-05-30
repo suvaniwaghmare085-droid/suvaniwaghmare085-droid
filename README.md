@@ -233,7 +233,7 @@ alt="GitHub Streak Stats"
 ---
 
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <div align="center">
 
@@ -243,7 +243,7 @@ alt="GitHub Streak Stats"
 </div>
 
 
----
+--- -->
 
 
 <!--## 🏅 Achievements & Trophies
