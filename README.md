@@ -250,10 +250,13 @@ alt="GitHub Streak Stats"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=radical&no-frame=true&row=1)](https://github.com/suvaniwaghmare085-droid)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&theme=radical)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=radical&no-frame=true&row=1&column=6)](https://github.com/suvaniwaghmare085-droid)
 
 </div>
-
 
 ---
 
