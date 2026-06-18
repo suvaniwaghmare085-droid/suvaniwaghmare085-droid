@@ -249,9 +249,8 @@ alt="GitHub Streak Stats"
 ## 🏅 Achievements & Trophies
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&theme=radical" />
-   
-</div>  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&theme=radical" />
+</div>
 
 
 ---
