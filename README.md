@@ -246,7 +246,7 @@ alt="GitHub Streak Stats"
 
 
 
-## 🏅 Achievements & Trophies
+## 🏅 Most Used Languages
 
 <div align="center">
 
@@ -254,7 +254,7 @@ alt="GitHub Streak Stats"
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&theme=radical)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=radical&no-frame=true&row=1&column=6)](https://github.com/suvaniwaghmare085-droid)
+<!--[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=radical&no-frame=true&row=1&column=6)](https://github.com/suvaniwaghmare085-droid) -->
 
 </div>
 
