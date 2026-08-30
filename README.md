@@ -226,11 +226,10 @@ alt="GitHub Streak Stats"
 
 <!-- 👆 Clicking the graph opens the LIVE interactive version with hover tooltips -->
 
-<!--[![Live Interactive Graph](https://img.shields.io/badge/📊%20Open%20Live%20Graph%20with%20Hover-22c55e?style=for-the-badge&labelColor=0d1117)](https://suvaniwaghmare085-droid.github.io/suvaniwaghmare085-droid/graph.html)
+[![Live Interactive Graph](https://img.shields.io/badge/📊%20Open%20Live%20Graph%20with%20Hover-22c55e?style=for-the-badge&labelColor=0d1117)](https://suvaniwaghmare085-droid.github.io/suvaniwaghmare085-droid/graph.html)
 
 </div>
 
--->
 ---
 
 ## 📊 GitHub Stats
@@ -254,7 +253,7 @@ alt="GitHub Streak Stats"
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&theme=radical)
 
-<!--[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=radical&no-frame=true&row=1&column=6)](https://github.com/suvaniwaghmare085-droid) -->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=radical&no-frame=true&row=1&column=6)](https://github.com/suvaniwaghmare085-droid)
 
 </div>
 
