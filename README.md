@@ -18,7 +18,6 @@
 ✧　⋆　☾　⋆　✧　🦋　✧　⋆　☽　⋆　✧
 
 <br/><br/>
-
 <a href="https://www.linkedin.com/in/suvani-waghmare-4a0949379">
 <img src="https://img.shields.io/badge/LinkedIn-B784FF?style=for-the-badge&logo=linkedin&logoColor=050507"/>
 </a>
