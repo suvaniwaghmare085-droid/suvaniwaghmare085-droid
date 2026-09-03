@@ -545,7 +545,7 @@ height="175"/>
 <br/><br/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=suvaniwaghmare085-droid&hide_border=true&background=0D0A12&stroke=B784FF&ring=FF8FD8&fire=FFD978&currStreakLabel=C8A2FF&sideLabels=B784FF&currStreakNum=F8F4FF&sideNums=F8F4FF&dates=B9AEC9"
-width = "75%"/>
+width = "60%"/>
 
 <br/><br/>
 
@@ -581,7 +581,7 @@ width="95%"/>
 <a href="https://leetcode.com/u/Suvani_12/">
 
 <img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap"
-width="80%"/>
+width="90%"/>
 
 </a>
 
@@ -716,6 +716,7 @@ I'm learning how to build things — and tell stories.
 <br/><br/>
 
 <h2><code>404: sleep not found</code></h2>
+<hr>
 
 <br/><br/>
 
