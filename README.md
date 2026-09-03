@@ -19,12 +19,52 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/suvani-waghmare-4a0949379"><img src="https://img.shields.io/badge/LinkedIn-B784FF?style=flat-square&logo=linkedin&logoColor=050507"/></a> <a href="https://github.com/suvaniwaghmare085-droid"><img src="https://img.shields.io/badge/GitHub-C8A2FF?style=flat-square&logo=github&logoColor=050507"/></a> <a href="https://leetcode.com/u/Suvani_12/"><img src="https://img.shields.io/badge/LeetCode-FF8FD8?style=flat-square&logo=leetcode&logoColor=050507"/></a> <a href="https://www.hackerrank.com/profile/suvaniwaghmare01"><img src="https://img.shields.io/badge/HackerRank-B784FF?style=flat-square&logo=hackerrank&logoColor=050507"/></a> <a href="https://www.codechef.com/users/suvani_12"><img src="https://img.shields.io/badge/CodeChef-C8A2FF?style=flat-square&logo=codechef&logoColor=050507"/></a> <a href="https://www.geeksforgeeks.org/profile/suvani12"><img src="https://img.shields.io/badge/GfG-FF8FD8?style=flat-square&logo=geeksforgeeks&logoColor=050507"/></a> <a href="https://hashnode.com/@suvani12"><img src="https://img.shields.io/badge/Hashnode-B784FF?style=flat-square&logo=hashnode&logoColor=050507"/></a> <a href="https://medium.com/@suvaniwaghmare02"><img src="https://img.shields.io/badge/Medium-C8A2FF?style=flat-square&logo=medium&logoColor=050507"/></a> <a href="https://www.hackerearth.com/suvaniwaghmare02"><img src="https://img.shields.io/badge/HackerEarth-FF8FD8?style=flat-square&logo=hackerearth&logoColor=050507"/></a> <a href="https://x.com/SuvaniW61316"><img src="https://img.shields.io/badge/X-B784FF?style=flat-square&logo=x&logoColor=050507"/></a>
+<a href="https://www.linkedin.com/in/suvani-waghmare-4a0949379">
+<img src="https://img.shields.io/badge/LinkedIn-B784FF?style=flat-square&logo=linkedin&logoColor=050507"/>
+</a>
+
+<a href="https://github.com/suvaniwaghmare085-droid">
+<img src="https://img.shields.io/badge/GitHub-C8A2FF?style=flat-square&logo=github&logoColor=050507"/>
+</a>
+
+<a href="https://leetcode.com/u/Suvani_12/">
+<img src="https://img.shields.io/badge/LeetCode-FF8FD8?style=flat-square&logo=leetcode&logoColor=050507"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/suvaniwaghmare01">
+<img src="https://img.shields.io/badge/HackerRank-B784FF?style=flat-square&logo=hackerrank&logoColor=050507"/>
+</a>
+
+<a href="https://www.codechef.com/users/suvani_12">
+<img src="https://img.shields.io/badge/CodeChef-C8A2FF?style=flat-square&logo=codechef&logoColor=050507"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/suvani12">
+<img src="https://img.shields.io/badge/GfG-FF8FD8?style=flat-square&logo=geeksforgeeks&logoColor=050507"/>
+</a>
+
+<a href="https://hashnode.com/@suvani12">
+<img src="https://img.shields.io/badge/Hashnode-B784FF?style=flat-square&logo=hashnode&logoColor=050507"/>
+</a>
+
+<a href="https://medium.com/@suvaniwaghmare02">
+<img src="https://img.shields.io/badge/Medium-C8A2FF?style=flat-square&logo=medium&logoColor=050507"/>
+</a>
+
+<a href="https://www.hackerearth.com/suvaniwaghmare02">
+<img src="https://img.shields.io/badge/HackerEarth-FF8FD8?style=flat-square&logo=hackerearth&logoColor=050507"/>
+</a>
+
+<a href="https://x.com/SuvaniW61316">
+<img src="https://img.shields.io/badge/X-B784FF?style=flat-square&logo=x&logoColor=050507"/>
+</a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=suvaniwaghmare085-droid&label=✦%20visitors&color=B784FF&style=flat-square"/>
+
 <img src="https://img.shields.io/github/followers/suvaniwaghmare085-droid?label=followers&style=flat-square&color=FF8FD8"/>
+
 <img src="https://img.shields.io/github/stars/suvaniwaghmare085-droid?label=stars&style=flat-square&color=FFD978"/>
 
 </div>
@@ -41,7 +81,7 @@
 
 </div>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 
 <td width="55%" valign="top">
@@ -100,6 +140,7 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -115,24 +156,22 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 ✦ SKILLS & EXPERTISE ✦                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
 <h2>✦ 𝑺𝒌𝒊𝒍𝒍𝒔 & 𝑻𝒉𝒊𝒏𝒈𝒔 𝑰 𝑪𝒓𝒆𝒂𝒕𝒆 𝑾𝒊𝒕𝒉 ✦</h2>
 
 <i>not just a list of technologies — the things I'm learning to create with.</i>
 
 </div>
 
-<br>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                 ROW 1 — TWO SKILLS                     -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <table align="center" width="100%">
 <tr>
-
-<!-- ═════════════════════ LANGUAGES ═════════════════════ -->
 
 <td width="50%" valign="top">
 
@@ -142,19 +181,17 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 
 <img src="https://skillicons.dev/icons?i=python,js,java,c&perline=4" height="58"/>
 
-<br><br>
+<br/><br/>
 
 <b>Python</b>　✦　<b>JavaScript</b>　✦　<b>Java</b>　✦　<b>C</b>
 
-<br><br>
+<br/><br/>
 
 <sub>Object-Oriented Programming　•　Problem Solving</sub>
 
 </div>
 
 </td>
-
-<!-- ═════════════════════ WEB DEVELOPMENT ═════════════════════ -->
 
 <td width="50%" valign="top">
 
@@ -163,20 +200,20 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-     height="58"
-     alt="HTML5"/>
+height="58"
+alt="HTML5"/>
 
-&nbsp;&nbsp;
+  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-     height="58"
-     alt="CSS3"/>
+height="58"
+alt="CSS3"/>
 
-<br><br>
+<br/><br/>
 
 <b>HTML5</b>　✦　<b>CSS3</b>　✦　<b>Web Development</b>
 
-<br><br>
+<br/><br/>
 
 <sub>Web Design　•　Frontend Basics　•　Responsive Design</sub>
 
@@ -184,7 +221,15 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 
 </td>
 
-<!-- ═════════════════════ DATA SCIENCE ═════════════════════ -->
+</tr>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                 ROW 2 — TWO SKILLS                     -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -192,53 +237,49 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow&perline=1"
-     height="52"
-     alt="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+height="52"
+alt="TensorFlow"/>
 
-&nbsp;&nbsp;
+  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-     height="52"
-     alt="Pandas"/>
+height="52"
+alt="Pandas"/>
 
-&nbsp;&nbsp;
+  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-     height="52"
-     alt="NumPy"/>
+height="52"
+alt="NumPy"/>
 
-&nbsp;&nbsp;
+  
 
-<img src="https://skillicons.dev/icons?i=sklearn&perline=1"
-     height="52"
-     alt="Scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
+height="52"
+alt="Scikit-learn"/>
 
-&nbsp;&nbsp;
+  
 
-<img src="https://skillicons.dev/icons?i=mysql&perline=1"
-     height="52"
-     alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+height="52"
+alt="MySQL"/>
 
-<br><br>
+<br/><br/>
 
 <b>TensorFlow</b>　✦　<b>Pandas</b>　✦　<b>NumPy</b>
 
-<br>
+<br/>
 
 <b>Scikit-learn</b>　✦　<b>MySQL</b>　✦　<b>Data Analysis</b>
 
-<br><br>
+<br/><br/>
 
-<sub>
-Machine Learning　•　Data Analysis　•　DBMS
-</sub>
+<sub>Machine Learning　•　Data Analysis　•　DBMS</sub>
 
 </div>
 
 </td>
-
-<!-- ═════════════════════ TOOLS ═════════════════════ -->
 
 <td width="50%" valign="top">
 
@@ -248,15 +289,17 @@ Machine Learning　•　Data Analysis　•　DBMS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" height="52"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/AutoCAD-120B1A?style=flat-square&logo=autodesk&logoColor=FF8FD8" height="30"/>
+<img src="https://img.shields.io/badge/AutoCAD-120B1A?style=flat-square&logo=autodesk&logoColor=FF8FD8"
+height="30"
+alt="AutoCAD"/>
 
-<br><br>
+<br/><br/>
 
 <b>Git</b>　✦　<b>GitHub</b>　✦　<b>VS Code</b>　✦　<b>AutoCAD</b>
 
-<br><br>
+<br/><br/>
 
 <sub>Version Control　•　GitHub Projects　•　Development Tools</sub>
 
@@ -267,11 +310,9 @@ Machine Learning　•　Data Analysis　•　DBMS
 </tr>
 </table>
 
-<br>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    ✦ BEYOND THE CODE ✦                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
@@ -281,9 +322,10 @@ Machine Learning　•　Data Analysis　•　DBMS
 
 </div>
 
-<br>
+<br/>
 
 <table align="center" width="100%">
+
 <tr>
 
 <td width="50%" valign="top">
@@ -294,15 +336,15 @@ Machine Learning　•　Data Analysis　•　DBMS
 
 ✦ <b>Content Writing</b>　✦ <b>Technical Writing</b>
 
-<br>
+<br/>
 
 ✧ <b>Creative Writing</b>　✧ <b>Fiction Writing</b>
 
-<br>
+<br/>
 
 ✦ <b>Non-fiction Writing</b>　✦ <b>Report Writing</b>
 
-<br>
+<br/>
 
 ✧ <b>Web Content</b>　✧ <b>Story Writing</b>
 
@@ -318,19 +360,19 @@ Machine Learning　•　Data Analysis　•　DBMS
 
 ✦ <b>Social Media Marketing</b>
 
-<br>
+<br/>
 
 ✧ <b>Social Media Management</b>
 
-<br>
+<br/>
 
 ✦ <b>Content Strategy</b>　✦ <b>Brand Storytelling</b>
 
-<br>
+<br/>
 
 ✧ <b>Content Creation</b>　✧ <b>Digital Presence</b>
 
-<br>
+<br/>
 
 ✦ <b>Audience Engagement</b>　✦ <b>Creative Strategy</b>
 
@@ -350,19 +392,19 @@ Machine Learning　•　Data Analysis　•　DBMS
 
 ✦ <b>Content Writing</b>　✦ <b>Story Writing</b>
 
-<br>
+<br/>
 
 ✧ <b>Technical Writing</b>　✧ <b>Web Content</b>
 
-<br>
+<br/>
 
 ✦ <b>Social Media Content</b>
 
-<br>
+<br/>
 
 ✧ <b>Creative Content</b>　✧ <b>Client Communication</b>
 
-<br>
+<br/>
 
 ✦ <b>Content Strategy</b>　✦ <b>Creative Problem Solving</b>
 
@@ -378,19 +420,19 @@ Machine Learning　•　Data Analysis　•　DBMS
 
 ✦ <b>Leadership</b>　✦ <b>Team Leadership</b>
 
-<br>
+<br/>
 
 ✧ <b>Leadership Development</b>　✧ <b>Management</b>
 
-<br>
+<br/>
 
 ✦ <b>Time Management</b>　✦ <b>Planning</b>
 
-<br>
+<br/>
 
 ✧ <b>Organization Skills</b>　✧ <b>Self Confidence</b>
 
-<br>
+<br/>
 
 ✦ <b>Problem Solving</b>　✦ <b>Communication</b>
 
@@ -399,9 +441,10 @@ Machine Learning　•　Data Analysis　•　DBMS
 </td>
 
 </tr>
+
 </table>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -409,15 +452,22 @@ Machine Learning　•　Data Analysis　•　DBMS
 
 </div>
 
+---
+
+<div align="center">
 
 <h2>🚀 𝑻𝒉𝒊𝒏𝒈𝒔 𝑰'𝒎 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈</h2>
 
 <h4><i>turning ideas into something that can actually exist.</i></h4>
 
+</div>
+
 <br/>
 
-<table>
+<table align="center" width="100%">
+
 <tr>
+
 <td width="100%">
 
 <div align="center">
@@ -441,16 +491,22 @@ and improve personal safety.
 <br/><br/>
 
 <a href="https://github.com/suvaniwaghmare085-droid/LUMINA-AI-Powered-Personal-Safety-Scam-Detection-Assistant">
+
 <img src="https://img.shields.io/badge/✦%20VIEW%20PROJECT-120B1A?style=for-the-badge&labelColor=120B1A&color=B784FF"/>
+
 </a>
 
 </div>
 
 </td>
+
 </tr>
+
 </table>
 
 <br/>
+
+<div align="center">
 
 ✧　⋆　<i>more ideas are quietly loading...</i>　⋆　✧
 
@@ -466,17 +522,20 @@ and improve personal safety.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&hide_border=true&bg_color=0D0A12&title_color=B784FF&icon_color=FF8FD8&text_color=F8F4FF&ring_color=B784FF" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&hide_border=true&bg_color=0D0A12&title_color=B784FF&icon_color=FF8FD8&text_color=F8F4FF&ring_color=B784FF"
+height="175"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&hide_border=true&bg_color=0D0A12&title_color=C8A2FF&text_color=F8F4FF" height="175"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=suvaniwaghmare085-droid&hide_border=true&background=0D0A12&stroke=B784FF&ring=FF8FD8&fire=FFD978&currStreakLabel=C8A2FF&sideLabels=B784FF&currStreakNum=F8F4FF&sideNums=F8F4FF&dates=B9AEC9" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&hide_border=true&bg_color=0D0A12&title_color=C8A2FF&text_color=F8F4FF"
+height="175"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=suvaniwaghmare085-droid&hide_border=true&background=0D0A12&stroke=B784FF&ring=FF8FD8&fire=FFD978&currStreakLabel=C8A2FF&sideLabels=B784FF&currStreakNum=F8F4FF&sideNums=F8F4FF&dates=B9AEC9"
+height="175"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
@@ -488,7 +547,8 @@ and improve personal safety.
 
 <a href="https://suvaniwaghmare085-droid.github.io/suvaniwaghmare085-droid/graph.html">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suvaniwaghmare085-droid&bg_color=0D0A12&color=B784FF&line=FF8FD8&point=FFD978&area_color=7C3AED&area=true&hide_border=true&custom_title=Suvani's%20Contribution%20Universe%20%E2%9C%A6" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suvaniwaghmare085-droid&bg_color=0D0A12&color=B784FF&line=FF8FD8&point=FFD978&area_color=7C3AED&area=true&hide_border=true&custom_title=Suvani's%20Contribution%20Universe%20%E2%9C%A6"
+width="95%"/>
 
 </a>
 
@@ -506,14 +566,17 @@ and improve personal safety.
 
 <a href="https://leetcode.com/u/Suvani_12/">
 
-<img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap" width="70%"/>
+<img src="https://leetcard.jacoblin.cool/Suvani_12?theme=dark&font=Fira%20Code&ext=heatmap"
+width="70%"/>
 
 </a>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/Suvani_12/">
+
 <img src="https://img.shields.io/badge/✦%20OPEN%20MY%20LEETCODE-120B1A?style=for-the-badge&labelColor=120B1A&color=FF8FD8"/>
+
 </a>
 
 </div>
@@ -525,7 +588,9 @@ and improve personal safety.
 <h2>🪶 𝑩𝒆𝒚𝒐𝒏𝒅 𝒕𝒉𝒆 𝑪𝒐𝒅𝒆</h2>
 
 <table align="center">
+
 <tr>
+
 <td width="100%">
 
 <div align="center">
@@ -551,7 +616,9 @@ I'm learning how to build things — and tell stories.
 </div>
 
 </td>
+
 </tr>
+
 </table>
 
 ---
