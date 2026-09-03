@@ -162,7 +162,15 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css&perline=2" height="58"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+     height="58"
+     alt="HTML5"/>
+
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+     height="58"
+     alt="CSS3"/>
 
 <br><br>
 
@@ -176,10 +184,6 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 
 </td>
 
-</tr>
-
-<tr>
-
 <!-- ═════════════════════ DATA SCIENCE ═════════════════════ -->
 
 <td width="50%" valign="top">
@@ -188,7 +192,33 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pandas,numpy,sklearn,mysql&perline=5" height="52"/>
+<img src="https://skillicons.dev/icons?i=tensorflow&perline=1"
+     height="52"
+     alt="TensorFlow"/>
+
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+     height="52"
+     alt="Pandas"/>
+
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+     height="52"
+     alt="NumPy"/>
+
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=sklearn&perline=1"
+     height="52"
+     alt="Scikit-learn"/>
+
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=mysql&perline=1"
+     height="52"
+     alt="MySQL"/>
 
 <br><br>
 
