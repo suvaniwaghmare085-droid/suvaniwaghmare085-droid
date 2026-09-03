@@ -154,6 +154,12 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                 ✦ SKILLS & EXPERTISE ✦                 -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 <h2>✦ 𝑺𝒌𝒊𝒍𝒍𝒔 & 𝑻𝒉𝒊𝒏𝒈𝒔 𝑰 𝑪𝒓𝒆𝒂𝒕𝒆 𝑾𝒊𝒕𝒉 ✦</h2>
@@ -164,20 +170,18 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!--                 ROW 1 — TWO SKILLS                     -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═════════════════════ ROW 1 ═════════════════════ -->
 
 <table align="center" width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 <h3>🐍 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈</h3>
 
-<div align="center">
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,js,java,c&perline=4" height="58"/>
 
@@ -195,23 +199,17 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 
 <td width="50%" valign="top">
 
-<h3>🌐 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</h3>
-
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-height="58"
-alt="HTML5"/>
+<h3>🌐 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</h3>
 
-  
+<br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-height="58"
-alt="CSS3"/>
+<img src="https://skillicons.dev/icons?i=html,css&perline=2" height="58"/>
 
 <br/><br/>
 
-<b>HTML5</b>　✦　<b>CSS3</b>　✦　<b>Web Development</b>
+<b>HTML5</b>　✦　<b>CSS3</b>
 
 <br/><br/>
 
@@ -222,47 +220,49 @@ alt="CSS3"/>
 </td>
 
 </tr>
+</table>
 
-<!-- ═══════════════════════════════════════════════════════ -->
+<br/>
 
-<!--                 ROW 2 — TWO SKILLS                     -->
+<!-- ═════════════════════ ROW 2 ═════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
+<table align="center" width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🧠 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑴𝑳</h3>
-
 <div align="center">
 
+<h3>🧠 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑴𝑳</h3>
+
+<br/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-height="52"
+height="50"
 alt="TensorFlow"/>
 
   
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-height="52"
+height="50"
 alt="Pandas"/>
 
   
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-height="52"
+height="50"
 alt="NumPy"/>
 
   
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
-height="52"
+height="50"
 alt="Scikit-learn"/>
 
   
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-height="52"
+height="50"
 alt="MySQL"/>
 
 <br/><br/>
@@ -283,9 +283,11 @@ alt="MySQL"/>
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 <h3>🛠️ 𝑻𝒐𝒐𝒍𝒔 & 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔</h3>
 
-<div align="center">
+<br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" height="52"/>
 
@@ -312,7 +314,19 @@ alt="AutoCAD"/>
 
 <br/>
 
+<div align="center">
+
+✦　🦋　✦　🦋　✦
+
+</div>
+
 ---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                    ✦ BEYOND THE CODE ✦                 -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -334,19 +348,19 @@ alt="AutoCAD"/>
 
 <h3>✍️ 𝑾𝒓𝒊𝒕𝒊𝒏𝒈 & 𝑪𝒐𝒏𝒕𝒆𝒏𝒕</h3>
 
-✦ <b>Content Writing</b>　✦ <b>Technical Writing</b>
+✦ <b>Content Writing</b>　✦　<b>Technical Writing</b>
 
 <br/>
 
-✧ <b>Creative Writing</b>　✧ <b>Fiction Writing</b>
+✧ <b>Creative Writing</b>　✧　<b>Fiction Writing</b>
 
 <br/>
 
-✦ <b>Non-fiction Writing</b>　✦ <b>Report Writing</b>
+✦ <b>Non-fiction Writing</b>　✦　<b>Report Writing</b>
 
 <br/>
 
-✧ <b>Web Content</b>　✧ <b>Story Writing</b>
+✧ <b>Web Content</b>　✧　<b>Story Writing</b>
 
 </div>
 
@@ -366,15 +380,15 @@ alt="AutoCAD"/>
 
 <br/>
 
-✦ <b>Content Strategy</b>　✦ <b>Brand Storytelling</b>
+✦ <b>Content Strategy</b>　✦　<b>Brand Storytelling</b>
 
 <br/>
 
-✧ <b>Content Creation</b>　✧ <b>Digital Presence</b>
+✧ <b>Content Creation</b>　✧　<b>Digital Presence</b>
 
 <br/>
 
-✦ <b>Audience Engagement</b>　✦ <b>Creative Strategy</b>
+✦ <b>Audience Engagement</b>　✦　<b>Creative Strategy</b>
 
 </div>
 
@@ -390,11 +404,11 @@ alt="AutoCAD"/>
 
 <h3>💼 𝑭𝒓𝒆𝒆𝒍𝒂𝒏𝒄𝒊𝒏𝒈</h3>
 
-✦ <b>Content Writing</b>　✦ <b>Story Writing</b>
+✦ <b>Content Writing</b>　✦　<b>Story Writing</b>
 
 <br/>
 
-✧ <b>Technical Writing</b>　✧ <b>Web Content</b>
+✧ <b>Technical Writing</b>　✧　<b>Web Content</b>
 
 <br/>
 
@@ -402,11 +416,11 @@ alt="AutoCAD"/>
 
 <br/>
 
-✧ <b>Creative Content</b>　✧ <b>Client Communication</b>
+✧ <b>Creative Content</b>　✧　<b>Client Communication</b>
 
 <br/>
 
-✦ <b>Content Strategy</b>　✦ <b>Creative Problem Solving</b>
+✦ <b>Content Strategy</b>　✦　<b>Creative Problem Solving</b>
 
 </div>
 
@@ -418,23 +432,23 @@ alt="AutoCAD"/>
 
 <h3>🤝 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 & 𝑰𝒏𝒕𝒆𝒓𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒍</h3>
 
-✦ <b>Leadership</b>　✦ <b>Team Leadership</b>
+✦ <b>Leadership</b>　✦　<b>Team Leadership</b>
 
 <br/>
 
-✧ <b>Leadership Development</b>　✧ <b>Management</b>
+✧ <b>Leadership Development</b>　✧　<b>Management</b>
 
 <br/>
 
-✦ <b>Time Management</b>　✦ <b>Planning</b>
+✦ <b>Time Management</b>　✦　<b>Planning</b>
 
 <br/>
 
-✧ <b>Organization Skills</b>　✧ <b>Self Confidence</b>
+✧ <b>Organization Skills</b>　✧　<b>Self Confidence</b>
 
 <br/>
 
-✦ <b>Problem Solving</b>　✦ <b>Communication</b>
+✦ <b>Problem Solving</b>　✦　<b>Communication</b>
 
 </div>
 
@@ -522,20 +536,20 @@ and improve personal safety.
 
 <br/>
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&hide_border=true&bg_color=0D0A12&title_color=B784FF&icon_color=FF8FD8&text_color=F8F4FF&ring_color=B784FF"
+<img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&hide_border=true&bg_color=0D0A12&title_color=B784FF&icon_color=FF8FD8&text_color=F8F4FF&ring_color=B784FF"
 height="175"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&hide_border=true&bg_color=0D0A12&title_color=C8A2FF&text_color=F8F4FF"
 height="175"/>
 
-<br/><br/>-->
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=suvaniwaghmare085-droid&hide_border=true&background=0D0A12&stroke=B784FF&ring=FF8FD8&fire=FFD978&currStreakLabel=C8A2FF&sideLabels=B784FF&currStreakNum=F8F4FF&sideNums=F8F4FF&dates=B9AEC9"
 height="175"/>
 
 <br/><br/>
 
-<!--<img src="https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
@@ -552,7 +566,7 @@ width="95%"/>
 
 </a>
 
-</div> -->
+</div>
 
 ---
 
