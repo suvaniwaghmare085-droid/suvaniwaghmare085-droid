@@ -6,13 +6,12 @@
 
 ✦　⋆　𖤐　⋆　✦　🦋　✦　⋆　𖤐　⋆　✦
 
-# 𝑺 𝑼 𝑽 𝑨 𝑵 𝑰
+<h1>𝑺 𝑼 𝑽 𝑨 𝑵 𝑰</h1>
+<h1>𝑾 𝑨 𝑮 𝑯 𝑴 𝑨 𝑹 𝑬</h1>
 
-# 𝑾 𝑨 𝑮 𝑯 𝑴 𝑨 𝑹 𝑬
+<h3>Data Science • Machine Learning • Code • Stories</h3>
 
-Data Science • Machine Learning • Code • Stories
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=B784FF&center=true&vCenter=true&width=850&lines=Aspiring+Data+Scientist;Data+Science+%26+ML+Enthusiast;Python+Developer;DSA+Learner;Creative+Writer;Tech+%C3%97+Creativity;Building+ideas+into+reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=B784FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Data+Science+%26+ML+Enthusiast;Python+Developer;DSA+Learner;Creative+Writer;Tech+%C3%97+Creativity;Building+ideas+into+reality" />
 
 <br/>
 
@@ -22,7 +21,7 @@ Data Science • Machine Learning • Code • Stories
 
 <a href="https://www.linkedin.com/in/suvani-waghmare-4a0949379"><img src="https://img.shields.io/badge/LinkedIn-B784FF?style=flat-square&logo=linkedin&logoColor=050507"/></a> <a href="https://github.com/suvaniwaghmare085-droid"><img src="https://img.shields.io/badge/GitHub-C8A2FF?style=flat-square&logo=github&logoColor=050507"/></a> <a href="https://leetcode.com/u/Suvani_12/"><img src="https://img.shields.io/badge/LeetCode-FF8FD8?style=flat-square&logo=leetcode&logoColor=050507"/></a> <a href="https://www.hackerrank.com/profile/suvaniwaghmare01"><img src="https://img.shields.io/badge/HackerRank-B784FF?style=flat-square&logo=hackerrank&logoColor=050507"/></a> <a href="https://www.codechef.com/users/suvani_12"><img src="https://img.shields.io/badge/CodeChef-C8A2FF?style=flat-square&logo=codechef&logoColor=050507"/></a> <a href="https://www.geeksforgeeks.org/profile/suvani12"><img src="https://img.shields.io/badge/GfG-FF8FD8?style=flat-square&logo=geeksforgeeks&logoColor=050507"/></a> <a href="https://hashnode.com/@suvani12"><img src="https://img.shields.io/badge/Hashnode-B784FF?style=flat-square&logo=hashnode&logoColor=050507"/></a> <a href="https://medium.com/@suvaniwaghmare02"><img src="https://img.shields.io/badge/Medium-C8A2FF?style=flat-square&logo=medium&logoColor=050507"/></a> <a href="https://www.hackerearth.com/suvaniwaghmare02"><img src="https://img.shields.io/badge/HackerEarth-FF8FD8?style=flat-square&logo=hackerearth&logoColor=050507"/></a> <a href="https://x.com/SuvaniW61316"><img src="https://img.shields.io/badge/X-B784FF?style=flat-square&logo=x&logoColor=050507"/></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=suvaniwaghmare085-droid&label=✦%20visitors&color=B784FF&style=flat-square"/>
 <img src="https://img.shields.io/github/followers/suvaniwaghmare085-droid?label=followers&style=flat-square&color=FF8FD8"/>
@@ -36,33 +35,45 @@ Data Science • Machine Learning • Code • Stories
 
 <div align="center">
 
-## ✦ 𝑴𝒚 𝑳𝒊𝒕𝒕𝒍𝒆 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒆 ✦
+<h2>✦ 𝑴𝒚 𝑳𝒊𝒕𝒕𝒍𝒆 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒆 ✦</h2>
 
-*where data meets imagination, and every idea gets a chance to become real.*
+<h4><i>where data meets imagination, and every idea gets a chance to become real.</i></h4>
 
 </div>
 
 <table align="center">
 <tr>
+
 <td width="55%" valign="top">
 
-### 🦋 𝑨 𝑳𝒊𝒕𝒕𝒍𝒆 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
+<h3>🦋 𝑨 𝑳𝒊𝒕𝒕𝒍𝒆 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆</h3>
 
-I'm **Suvani**, a B.Tech CSE student specializing in **Data Science & Machine Learning**, fascinated by the space where technology and creativity overlap.
+<p>
+I'm <b>Suvani</b>, a B.Tech CSE student specializing in
+<b>Data Science & Machine Learning</b>, fascinated by the space where technology and creativity overlap.
+</p>
 
-I'm learning to turn data into insights, ideas into applications, and curiosity into things I can actually build. My current world revolves around **Python, Data Science, Machine Learning, DSA and problem solving**.
+<p>
+I'm learning to turn data into insights, ideas into applications, and curiosity into things I can actually build.
+My current world revolves around <b>Python, Data Science, Machine Learning, DSA and problem solving</b>.
+</p>
 
-And then there is my other universe — **writing**. I'm also a freelance story writer, and somehow I can write **20+ stories in a month**.
+<p>
+And then there is my other universe — <b>writing</b>.
+I'm also a freelance story writer, and somehow I can write <b>20+ stories in a month</b>.
+</p>
 
-✦ *Some days I write Python.*
-✦ *Some days I write people.*
-✦ *Some days I build entire worlds.*
+<h4>
+✦ <i>Some days I write Python.</i><br/>
+✦ <i>Some days I write people.</i><br/>
+✦ <i>Some days I build entire worlds.</i>
+</h4>
 
 </td>
 
 <td width="45%" valign="top">
 
-### ☾ 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚
+<h3>☾ 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚</h3>
 
 ```text
 ╭──────────────────────────────────╮
@@ -92,9 +103,11 @@ And then there is my other universe — **writing**. I'm also a freelance story 
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
 
-`✦ curiosity > perfection ✦`
+<h3>✦ <i>curiosity &gt; perfection</i> ✦</h3>
 
 </div>
 
@@ -102,80 +115,140 @@ And then there is my other universe — **writing**. I'm also a freelance story 
 
 <div align="center">
 
-## 🧠 𝑾𝒉𝒂𝒕 𝑳𝒊𝒗𝒆𝒔 𝒊𝒏 𝑴𝒚 𝑻𝒐𝒐𝒍𝒌𝒊𝒕
+<h2>🧠 𝑾𝒉𝒂𝒕 𝑳𝒊𝒗𝒆𝒔 𝒊𝒏 𝑴𝒚 𝑻𝒐𝒐𝒍𝒌𝒊𝒕</h2>
 
-*not just a list of technologies — the things I'm learning to create with.*
+<h4><i>not just a list of technologies — the things I'm learning to create with.</i></h4>
 
 </div>
 
 <table align="center">
 <tr>
+
 <td width="50%" valign="top">
 
-### 🐍 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈
+<h3>🐍 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈</h3>
 
 <div align="center">
 
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="45"/></a> <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="45"/></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" height="45"/></a>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="52"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" height="52"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" height="52"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img src="https://skillicons.dev/icons?i=c" height="52"/>
+</a>
+
+<br/><br/>
+
+<b>Python</b>　✦　<b>JavaScript</b>　✦　<b>Java</b>　✦　<b>C</b>
 
 </div>
-
-<br/>
-
-<sub>Python　•　JavaScript　•　Java　•　C</sub>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
+<h3>🌐 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</h3>
 
 <div align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="45"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" height="52"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" height="52"/>
+</a>
+
+<br/><br/>
+
+<b>HTML5</b>　✦　<b>CSS3</b>　✦　<b>Web Development</b>
 
 </div>
-
-<br/>
-
-<sub>HTML5　•　CSS3　•　Web Development</sub>
 
 </td>
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🧠 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑴𝑳
+<h3>🧠 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑴𝑳</h3>
 
 <div align="center">
 
-<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="40"/></a> <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" height="40"/></a> <a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" height="40"/></a> <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" height="40"/></a> <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="40"/></a>
+<a href="https://www.tensorflow.org/">
+<img src="https://skillicons.dev/icons?i=tensorflow" height="48"/>
+</a>
 
-</div>
+<a href="https://pandas.pydata.org/">
+<img src="https://skillicons.dev/icons?i=pandas" height="52"/>
+</a>
+
+<a href="https://numpy.org/">
+<img src="https://skillicons.dev/icons?i=numpy" height="52"/>
+</a>
+
+<a href="https://scikit-learn.org/">
+<img src="https://skillicons.dev/icons?i=sklearn" height="48"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" height="48"/>
+</a>
+
+<br/><br/>
+
+✦ <b>TensorFlow</b>　✦　<b>Pandas</b>　✦　<b>NumPy</b> ✦
 
 <br/>
 
+✦ <b>Scikit-learn</b>　✦　<b>MySQL</b>　✦　<b>Data Analysis</b>
+
+<br/><br/>
+
 <sub>
-Machine Learning　•　Data Analysis　•　Pandas　•　NumPy  
+Machine Learning　•　Data Analysis　•　Pandas　•　NumPy<br/>
 Scikit-learn　•　DBMS　•　OOP
 </sub>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛠️ 𝑻𝒐𝒐𝒍𝒔 & 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔
+<h3>🛠️ 𝑻𝒐𝒐𝒍𝒔 & 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔</h3>
 
 <div align="center">
 
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40"/></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40"/></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="40"/></a> <a href="https://www.autodesk.com/products/autocad/overview"><img src="https://img.shields.io/badge/AutoCAD-120B1A?style=flat-square&logo=autodesk&logoColor=FF8FD8" height="30"/></a>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" height="48"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" height="48"/>
+</a>
+
+<img src="https://img.shields.io/badge/AutoCAD-120B1A?style=flat-square&logo=autodesk&logoColor=FF8FD8" height="32"/>
+
+<br/><br/>
+
+✦ <b>Git</b>　✦　<b>GitHub</b>　✦　<b>VS Code</b>　✦　<b>AutoCAD</b>
 
 </div>
-
-<br/>
-
-<sub>Git　•　GitHub　•　VS Code　•　AutoCAD</sub>
 
 </td>
 </tr>
@@ -183,29 +256,25 @@ Scikit-learn　•　DBMS　•　OOP
 
 <br/>
 
+---
+
 <div align="center">
 
-### ✍️ 𝑾𝒓𝒊𝒕𝒊𝒏𝒈 & 𝑪𝒐𝒏𝒕𝒆𝒏𝒕
+<h2>✍️ 𝑾𝒓𝒊𝒕𝒊𝒏𝒈 & 𝑪𝒐𝒏𝒕𝒆𝒏𝒕</h2>
 
-`Content Writing`　✦　`Technical Writing`　✦　`Creative Writing`
-`Fiction Writing`　✦　`Non-fiction Writing`　✦　`Report Writing`
-`Web Content Writing`　✦　`Freelancing`
+<h4><i>another little universe where ideas become stories.</i></h4>
 
 <br/>
 
-### 📱 𝑺𝒐𝒄𝒊𝒂𝒍 𝑴𝒆𝒅𝒊𝒂 & 𝑴𝒂𝒓𝒌𝒆𝒕𝒊𝒏𝒈
+✦　<b>Content Writing</b>　✦　<b>Technical Writing</b>　✦　<b>Creative Writing</b>
 
-`Social Media Marketing`　✦　`Social Media Management`
-`Brand Storytelling`
+<br/><br/>
 
-<br/>
+✧　<b>Fiction Writing</b>　✧　<b>Non-fiction Writing</b>　✧　<b>Report Writing</b>
 
-### 🤝 𝑰𝒏𝒕𝒆𝒓𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒍 & 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍
+<br/><br/>
 
-`Leadership`　✦　`Team Leadership`　✦　`Leadership Development`
-`Management`　✦　`Time Management`　✦　`Planning`
-`Organization Skills`　✦　`Self Confidence`
-`Problem Solving`　✦　`Communication`
+🦋　<b>Web Content Writing</b>　🦋　<b>Story Writing</b>　🦋　<b>Freelancing</b>
 
 </div>
 
@@ -213,9 +282,77 @@ Scikit-learn　•　DBMS　•　OOP
 
 <div align="center">
 
-## 🚀 𝑻𝒉𝒊𝒏𝒈𝒔 𝑰'𝒎 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈
+<h2>📱 𝑺𝒐𝒄𝒊𝒂𝒍 𝑴𝒆𝒅𝒊𝒂 & 𝑴𝒂𝒓𝒌𝒆𝒕𝒊𝒏𝒈</h2>
 
-*turning ideas into something that can actually exist.*
+<h4><i>turning ideas into content people remember.</i></h4>
+
+<br/>
+
+✦　<b>Social Media Marketing</b>　✦　<b>Social Media Management</b>
+
+<br/><br/>
+
+✧　<b>Content Strategy</b>　✧　<b>Brand Storytelling</b>　✧　<b>Content Creation</b>
+
+<br/><br/>
+
+🦋　<b>Digital Presence</b>　🦋　<b>Audience Engagement</b>　🦋　<b>Creative Strategy</b>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>💼 𝑭𝒓𝒆𝒆𝒍𝒂𝒏𝒄𝒊𝒏𝒈</h2>
+
+<h4><i>creative work, real skills, and ideas turned into value.</i></h4>
+
+<br/>
+
+✦　<b>Content Writing</b>　✦　<b>Story Writing</b>　✦　<b>Technical Writing</b>
+
+<br/><br/>
+
+✧　<b>Social Media Content</b>　✧　<b>Creative Content</b>　✧　<b>Web Content</b>
+
+<br/><br/>
+
+🦋　<b>Client Communication</b>　🦋　<b>Content Strategy</b>　🦋　<b>Creative Problem Solving</b>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>🤝 𝑰𝒏𝒕𝒆𝒓𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒍 & 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍</h2>
+
+<br/>
+
+✦　<b>Leadership</b>　✦　<b>Team Leadership</b>　✦　<b>Leadership Development</b>
+
+<br/><br/>
+
+✧　<b>Management</b>　✧　<b>Time Management</b>　✧　<b>Planning</b>
+
+<br/><br/>
+
+🦋　<b>Organization Skills</b>　🦋　<b>Self Confidence</b>
+
+<br/><br/>
+
+✦　<b>Problem Solving</b>　✦　<b>Communication</b>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>🚀 𝑻𝒉𝒊𝒏𝒈𝒔 𝑰'𝒎 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈</h2>
+
+<h4><i>turning ideas into something that can actually exist.</i></h4>
 
 <br/>
 
@@ -225,11 +362,14 @@ Scikit-learn　•　DBMS　•　OOP
 
 <div align="center">
 
-### 🦋 𝑳𝑼𝑴𝑰𝑵𝑨
+<h2>🦋 𝑳𝑼𝑴𝑰𝑵𝑨</h2>
 
-#### *AI-Powered Personal Safety & Scam Detection Assistant*
+<h3><i>AI-Powered Personal Safety & Scam Detection Assistant</i></h3>
 
-✦ An AI-powered project focused on helping users identify potential scams and improve personal safety.
+<p>
+✦ An AI-powered project focused on helping users identify potential scams
+and improve personal safety.
+</p>
 
 <br/>
 
@@ -252,7 +392,7 @@ Scikit-learn　•　DBMS　•　OOP
 
 <br/>
 
-✧　⋆　*more ideas are quietly loading...*　⋆　✧
+✧　⋆　<i>more ideas are quietly loading...</i>　⋆　✧
 
 </div>
 
@@ -260,19 +400,19 @@ Scikit-learn　•　DBMS　•　OOP
 
 <div align="center">
 
-## 📊 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒆
+<h2>📊 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒆</h2>
 
-*little pieces of progress, collected over time.*
+<h4><i>little pieces of progress, collected over time.</i></h4>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&hide_border=true&bg_color=0D0A12&title_color=B784FF&icon_color=FF8FD8&text_color=F8F4FF&ring_color=B784FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&hide_border=true&bg_color=0D0A12&title_color=B784FF&icon_color=FF8FD8&text_color=F8F4FF&ring_color=B784FF" height="175"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&hide_border=true&bg_color=0D0A12&title_color=C8A2FF&text_color=F8F4FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&hide_border=true&bg_color=0D0A12&title_color=C8A2FF&text_color=F8F4FF" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=suvaniwaghmare085-droid&hide_border=true&background=0D0A12&stroke=B784FF&ring=FF8FD8&fire=FFD978&currStreakLabel=C8A2FF&sideLabels=B784FF&currStreakNum=F8F4FF&sideNums=F8F4FF&dates=B9AEC9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=suvaniwaghmare085-droid&hide_border=true&background=0D0A12&stroke=B784FF&ring=FF8FD8&fire=FFD978&currStreakLabel=C8A2FF&sideLabels=B784FF&currStreakNum=F8F4FF&sideNums=F8F4FF&dates=B9AEC9" height="175"/>
 
 <br/><br/>
 
@@ -284,7 +424,7 @@ Scikit-learn　•　DBMS　•　OOP
 
 <div align="center">
 
-### ✦ 𝑺𝒖𝒗𝒂𝒏𝒊'𝒔 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒆 ✦
+<h2>✦ 𝑺𝒖𝒗𝒂𝒏𝒊'𝒔 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒆 ✦</h2>
 
 <a href="https://suvaniwaghmare085-droid.github.io/suvaniwaghmare085-droid/graph.html">
 
@@ -298,9 +438,9 @@ Scikit-learn　•　DBMS　•　OOP
 
 <div align="center">
 
-## ✦ 𝑷𝒓𝒐𝒃𝒍𝒆𝒎 𝑺𝒐𝒍𝒗𝒊𝒏𝒈 ✦
+<h2>✦ 𝑷𝒓𝒐𝒃𝒍𝒆𝒎 𝑺𝒐𝒍𝒗𝒊𝒏𝒈 ✦</h2>
 
-*one problem at a time.*
+<h4><i>one problem at a time.</i></h4>
 
 <br/>
 
@@ -322,9 +462,7 @@ Scikit-learn　•　DBMS　•　OOP
 
 <div align="center">
 
-## 🪶 𝑩𝒆𝒚𝒐𝒏𝒅 𝒕𝒉𝒆 𝑪𝒐𝒅𝒆
-
-</div>
+<h2>🪶 𝑩𝒆𝒚𝒐𝒏𝒅 𝒕𝒉𝒆 𝑪𝒐𝒅𝒆</h2>
 
 <table align="center">
 <tr>
@@ -332,15 +470,23 @@ Scikit-learn　•　DBMS　•　OOP
 
 <div align="center">
 
-Writing is my other kind of problem solving.
+<h3>Writing is my other kind of problem solving.</h3>
 
-I'm a **freelance story writer**, and I can write **20+ stories in a month** —
+<p>
+I'm a <b>freelance story writer</b>, and I can write <b>20+ stories in a month</b> —
 because apparently debugging code wasn't enough, so I decided to debug fictional characters too.
+</p>
 
 <br/>
 
-*Somewhere between datasets and daydreams,*
-*I'm learning how to build things — and tell stories.*
+<i>
+Somewhere between datasets and daydreams,<br/>
+I'm learning how to build things — and tell stories.
+</i>
+
+<br/><br/>
+
+✦　🦋　✦　🪶　✦　🦋　✦
 
 </div>
 
@@ -352,21 +498,66 @@ because apparently debugging code wasn't enough, so I decided to debug fictional
 
 <div align="center">
 
-## 🎯 𝑻𝒉𝒆 𝑵𝒆𝒙𝒕 𝑪𝒉𝒂𝒑𝒕𝒆
+<h2>🎯 𝑻𝒉𝒆 𝑵𝒆𝒙𝒕 𝑪𝒉𝒂𝒑𝒕𝒆</h2>
 
 <table align="center">
+
 <tr>
-<td align="center">🦋<br/><sub>Become a<br/>Data Scientist</sub></td>
-<td align="center">🧠<br/><sub>Master<br/>DSA</sub></td>
-<td align="center">🤖<br/><sub>Build impactful<br/>AI/ML projects</sub></td>
-<td align="center">🚀<br/><sub>Build real-world<br/>applications</sub></td>
+
+<td align="center">
+🦋<br/>
+<b>Become a</b><br/>
+<sub>Data Scientist</sub>
+</td>
+
+<td align="center">
+🧠<br/>
+<b>Master</b><br/>
+<sub>DSA</sub>
+</td>
+
+<td align="center">
+🤖<br/>
+<b>Build impactful</b><br/>
+<sub>AI/ML projects</sub>
+</td>
+
+<td align="center">
+🚀<br/>
+<b>Build real-world</b><br/>
+<sub>applications</sub>
+</td>
+
 </tr>
+
 <tr>
-<td align="center">💼<br/><sub>Gain industry<br/>experience</sub></td>
-<td align="center">🌱<br/><sub>Keep<br/>learning</sub></td>
-<td align="center">✍️<br/><sub>Continue<br/>writing</sub></td>
-<td align="center">✦<br/><sub>Turn ideas<br/>into reality</sub></td>
+
+<td align="center">
+💼<br/>
+<b>Gain industry</b><br/>
+<sub>experience</sub>
+</td>
+
+<td align="center">
+🌱<br/>
+<b>Keep</b><br/>
+<sub>learning</sub>
+</td>
+
+<td align="center">
+✍️<br/>
+<b>Continue</b><br/>
+<sub>writing</sub>
+</td>
+
+<td align="center">
+✦<br/>
+<b>Turn ideas</b><br/>
+<sub>into reality</sub>
+</td>
+
 </tr>
+
 </table>
 
 </div>
@@ -375,13 +566,19 @@ because apparently debugging code wasn't enough, so I decided to debug fictional
 
 <div align="center">
 
-### ☾ 𝑳𝒊𝒕𝒕𝒍𝒆 𝑬𝒂𝒔𝒕𝒆𝒓 𝑬𝒈𝒈𝒔
+<h3>☾ 𝑳𝒊𝒕𝒕𝒍𝒆 𝑬𝒂𝒔𝒕𝒆𝒓 𝑬𝒈𝒈𝒔</h3>
 
-`✦ Currently loading my next chapter...`
+<br/>
 
-`404: sleep not found`
+✦　<i>Currently loading my next chapter...</i>　✦
 
-`Powered by curiosity, caffeine & questionable debugging decisions.`
+<br/><br/>
+
+<code>404: sleep not found</code>
+
+<br/><br/>
+
+✧　<i>Powered by curiosity, caffeine & questionable debugging decisions.</i>　✧
 
 </div>
 
@@ -395,11 +592,11 @@ because apparently debugging code wasn't enough, so I decided to debug fictional
 
 ✦　⋆　𖤐　⋆　🦋　⋆　𖤐　⋆　✦
 
-### *“Code. Learn. Build. Write. Repeat.”*
+<h2><i>“Code. Learn. Build. Write. Repeat.”</i></h2>
 
-**🦋**
+🦋
 
-<br/>
+<br/><br/>
 
 <sub>crafted somewhere between midnight thoughts & morning commits ✦</sub>
 
