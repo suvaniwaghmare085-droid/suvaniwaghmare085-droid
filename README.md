@@ -8,7 +8,7 @@
 
 # 𝑺 𝑼 𝑽 𝑨 𝑵 𝑰
 
-### 𝑾 𝑨 𝑮 𝑯 𝑴 𝑨 𝑹 𝑬
+# 𝑾 𝑨 𝑮 𝑯 𝑴 𝑨 𝑹 𝑬
 
 **Data Science • Machine Learning • Code • Stories**
 
