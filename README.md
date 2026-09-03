@@ -115,6 +115,269 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                 ✦ SKILLS & EXPERTISE ✦                 -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>✦ 𝑺𝒌𝒊𝒍𝒍𝒔 & 𝑻𝒉𝒊𝒏𝒈𝒔 𝑰 𝑪𝒓𝒆𝒂𝒕𝒆 𝑾𝒊𝒕𝒉 ✦</h2>
+
+<i>not just a list of technologies — the things I'm learning to create with.</i>
+
+</div>
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+
+<!-- ═════════════════════ LANGUAGES ═════════════════════ -->
+
+<td width="50%" valign="top">
+
+<h3>🐍 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,java,c&perline=4" height="58"/>
+
+<br><br>
+
+<b>Python</b>　✦　<b>JavaScript</b>　✦　<b>Java</b>　✦　<b>C</b>
+
+<br><br>
+
+<sub>Object-Oriented Programming　•　Problem Solving</sub>
+
+</div>
+
+</td>
+
+<!-- ═════════════════════ WEB DEVELOPMENT ═════════════════════ -->
+
+<td width="50%" valign="top">
+
+<h3>🌐 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css&perline=2" height="58"/>
+
+<br><br>
+
+<b>HTML5</b>　✦　<b>CSS3</b>　✦　<b>Web Development</b>
+
+<br><br>
+
+<sub>Web Design　•　Frontend Basics　•　Responsive Design</sub>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- ═════════════════════ DATA SCIENCE ═════════════════════ -->
+
+<td width="50%" valign="top">
+
+<h3>🧠 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑴𝑳</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pandas,numpy,sklearn,mysql&perline=5" height="52"/>
+
+<br><br>
+
+<b>TensorFlow</b>　✦　<b>Pandas</b>　✦　<b>NumPy</b>
+
+<br>
+
+<b>Scikit-learn</b>　✦　<b>MySQL</b>　✦　<b>Data Analysis</b>
+
+<br><br>
+
+<sub>
+Machine Learning　•　Data Analysis　•　DBMS
+</sub>
+
+</div>
+
+</td>
+
+<!-- ═════════════════════ TOOLS ═════════════════════ -->
+
+<td width="50%" valign="top">
+
+<h3>🛠️ 𝑻𝒐𝒐𝒍𝒔 & 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" height="52"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AutoCAD-120B1A?style=flat-square&logo=autodesk&logoColor=FF8FD8" height="30"/>
+
+<br><br>
+
+<b>Git</b>　✦　<b>GitHub</b>　✦　<b>VS Code</b>　✦　<b>AutoCAD</b>
+
+<br><br>
+
+<sub>Version Control　•　GitHub Projects　•　Development Tools</sub>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    ✦ BEYOND THE CODE ✦                 -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>✦ 𝑩𝒆𝒚𝒐𝒏𝒅 𝑻𝒉𝒆 𝑪𝒐𝒅𝒆 ✦</h2>
+
+<i>because creativity doesn't stop at programming.</i>
+
+</div>
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<h3>✍️ 𝑾𝒓𝒊𝒕𝒊𝒏𝒈 & 𝑪𝒐𝒏𝒕𝒆𝒏𝒕</h3>
+
+✦ <b>Content Writing</b>　✦ <b>Technical Writing</b>
+
+<br>
+
+✧ <b>Creative Writing</b>　✧ <b>Fiction Writing</b>
+
+<br>
+
+✦ <b>Non-fiction Writing</b>　✦ <b>Report Writing</b>
+
+<br>
+
+✧ <b>Web Content</b>　✧ <b>Story Writing</b>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<h3>📱 𝑺𝒐𝒄𝒊𝒂𝒍 𝑴𝒆𝒅𝒊𝒂 & 𝑴𝒂𝒓𝒌𝒆𝒕𝒊𝒏𝒈</h3>
+
+✦ <b>Social Media Marketing</b>
+
+<br>
+
+✧ <b>Social Media Management</b>
+
+<br>
+
+✦ <b>Content Strategy</b>　✦ <b>Brand Storytelling</b>
+
+<br>
+
+✧ <b>Content Creation</b>　✧ <b>Digital Presence</b>
+
+<br>
+
+✦ <b>Audience Engagement</b>　✦ <b>Creative Strategy</b>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<h3>💼 𝑭𝒓𝒆𝒆𝒍𝒂𝒏𝒄𝒊𝒏𝒈</h3>
+
+✦ <b>Content Writing</b>　✦ <b>Story Writing</b>
+
+<br>
+
+✧ <b>Technical Writing</b>　✧ <b>Web Content</b>
+
+<br>
+
+✦ <b>Social Media Content</b>
+
+<br>
+
+✧ <b>Creative Content</b>　✧ <b>Client Communication</b>
+
+<br>
+
+✦ <b>Content Strategy</b>　✦ <b>Creative Problem Solving</b>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<h3>🤝 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 & 𝑰𝒏𝒕𝒆𝒓𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒍</h3>
+
+✦ <b>Leadership</b>　✦ <b>Team Leadership</b>
+
+<br>
+
+✧ <b>Leadership Development</b>　✧ <b>Management</b>
+
+<br>
+
+✦ <b>Time Management</b>　✦ <b>Planning</b>
+
+<br>
+
+✧ <b>Organization Skills</b>　✧ <b>Self Confidence</b>
+
+<br>
+
+✦ <b>Problem Solving</b>　✦ <b>Communication</b>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<i>🦋 learning, creating, experimenting & building something of my own.</i>
+
+</div>
 
 
 <h2>🚀 𝑻𝒉𝒊𝒏𝒈𝒔 𝑰'𝒎 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈</h2>
