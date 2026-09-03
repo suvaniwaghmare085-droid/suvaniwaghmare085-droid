@@ -536,20 +536,20 @@ and improve personal safety.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&hide_border=true&bg_color=0D0A12&title_color=B784FF&icon_color=FF8FD8&text_color=F8F4FF&ring_color=B784FF"
+<!--<img src="https://github-readme-stats.vercel.app/api?username=suvaniwaghmare085-droid&show_icons=true&hide_border=true&bg_color=0D0A12&title_color=B784FF&icon_color=FF8FD8&text_color=F8F4FF&ring_color=B784FF"
 height="175"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvaniwaghmare085-droid&layout=compact&hide_border=true&bg_color=0D0A12&title_color=C8A2FF&text_color=F8F4FF"
 height="175"/>
 
-<br/><br/>
+<br/><br/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=suvaniwaghmare085-droid&hide_border=true&background=0D0A12&stroke=B784FF&ring=FF8FD8&fire=FFD978&currStreakLabel=C8A2FF&sideLabels=B784FF&currStreakNum=F8F4FF&sideNums=F8F4FF&dates=B9AEC9"
 height="175"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+<!--<img src="https://github-profile-trophy.vercel.app/?username=suvaniwaghmare085-droid&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
@@ -566,7 +566,7 @@ width="95%"/>
 
 </a>
 
-</div>
+</div>-->
 
 ---
 
