@@ -20,52 +20,52 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/suvani-waghmare-4a0949379">
-<img src="https://img.shields.io/badge/LinkedIn-B784FF?style=flat-square&logo=linkedin&logoColor=050507"/>
+<img src="https://img.shields.io/badge/LinkedIn-B784FF?style=for-the-badge&logo=linkedin&logoColor=050507"/>
 </a>
 
 <a href="https://github.com/suvaniwaghmare085-droid">
-<img src="https://img.shields.io/badge/GitHub-C8A2FF?style=flat-square&logo=github&logoColor=050507"/>
+<img src="https://img.shields.io/badge/GitHub-C8A2FF?style=for-the-badge&logo=github&logoColor=050507"/>
 </a>
 
 <a href="https://leetcode.com/u/Suvani_12/">
-<img src="https://img.shields.io/badge/LeetCode-FF8FD8?style=flat-square&logo=leetcode&logoColor=050507"/>
+<img src="https://img.shields.io/badge/LeetCode-FF8FD8?style=for-the-badge&logo=leetcode&logoColor=050507"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/suvaniwaghmare01">
-<img src="https://img.shields.io/badge/HackerRank-B784FF?style=flat-square&logo=hackerrank&logoColor=050507"/>
+<img src="https://img.shields.io/badge/HackerRank-B784FF?style=for-the-badge&logo=hackerrank&logoColor=050507"/>
 </a>
 
 <a href="https://www.codechef.com/users/suvani_12">
-<img src="https://img.shields.io/badge/CodeChef-C8A2FF?style=flat-square&logo=codechef&logoColor=050507"/>
+<img src="https://img.shields.io/badge/CodeChef-C8A2FF?style=for-the-badge&logo=codechef&logoColor=050507"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/suvani12">
-<img src="https://img.shields.io/badge/GfG-FF8FD8?style=flat-square&logo=geeksforgeeks&logoColor=050507"/>
+<img src="https://img.shields.io/badge/GfG-FF8FD8?style=for-the-badge&logo=geeksforgeeks&logoColor=050507"/>
 </a>
 
 <a href="https://hashnode.com/@suvani12">
-<img src="https://img.shields.io/badge/Hashnode-B784FF?style=flat-square&logo=hashnode&logoColor=050507"/>
+<img src="https://img.shields.io/badge/Hashnode-B784FF?style=for-the-badge&logo=hashnode&logoColor=050507"/>
 </a>
 
 <a href="https://medium.com/@suvaniwaghmare02">
-<img src="https://img.shields.io/badge/Medium-C8A2FF?style=flat-square&logo=medium&logoColor=050507"/>
+<img src="https://img.shields.io/badge/Medium-C8A2FF?style=for-the-badge&logo=medium&logoColor=050507"/>
 </a>
 
 <a href="https://www.hackerearth.com/suvaniwaghmare02">
-<img src="https://img.shields.io/badge/HackerEarth-FF8FD8?style=flat-square&logo=hackerearth&logoColor=050507"/>
+<img src="https://img.shields.io/badge/HackerEarth-FF8FD8?style=for-the-badge&logo=hackerearth&logoColor=050507"/>
 </a>
 
 <a href="https://x.com/SuvaniW61316">
-<img src="https://img.shields.io/badge/X-B784FF?style=flat-square&logo=x&logoColor=050507"/>
+<img src="https://img.shields.io/badge/X-B784FF?style=for-the-badge&logo=x&logoColor=050507"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=suvaniwaghmare085-droid&label=✦%20visitors&color=B784FF&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=suvaniwaghmare085-droid&label=✦%20visitors&color=B784FF&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/suvaniwaghmare085-droid?label=followers&style=flat-square&color=FF8FD8"/>
+<img src="https://img.shields.io/github/followers/suvaniwaghmare085-droid?label=followers&style=for-the-badge&color=FF8FD8"/>
 
-<img src="https://img.shields.io/github/stars/suvaniwaghmare085-droid?label=stars&style=flat-square&color=FFD978"/>
+<img src="https://img.shields.io/github/stars/suvaniwaghmare085-droid?label=stars&style=for-the-badge&color=FFD978"/>
 
 </div>
 
