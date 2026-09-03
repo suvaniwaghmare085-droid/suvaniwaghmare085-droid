@@ -10,7 +10,7 @@
 
 # 𝑾 𝑨 𝑮 𝑯 𝑴 𝑨 𝑹 𝑬
 
-**Data Science • Machine Learning • Code • Stories**
+Data Science • Machine Learning • Code • Stories
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=B784FF&center=true&vCenter=true&width=850&lines=Aspiring+Data+Scientist;Data+Science+%26+ML+Enthusiast;Python+Developer;DSA+Learner;Creative+Writer;Tech+%C3%97+Creativity;Building+ideas+into+reality" />
 
