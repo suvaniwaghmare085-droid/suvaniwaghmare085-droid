@@ -107,7 +107,7 @@ I'm also a freelance story writer, and somehow I can write <b>20+ stories in a m
 
 <div align="center">
 
-<h3>✦ <i>curiosity &gt; perfection</i> ✦</h3>
+<h2>✦ <i>curiosity &gt; perfection</i> ✦</h2>
 
 </div>
 
