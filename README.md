@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="𝓪𝓷𝓲𝓶𝓮.gif" width="100%" />
+<img src="first.gif" width="100%" />
 
 <br/>
 
@@ -727,7 +727,7 @@ I'm learning how to build things — and tell stories.
 
 <div align="center">
 
-<img src="Pixilart - Live on.gif" width="78%" />
+<img src="last.gif" width="78%" />
 
 <br/><br/>
 
